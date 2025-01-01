@@ -78,3 +78,10 @@
     window stream socket index ref  # 77
     pack object stream socket blob  # 78
     worker token queue window token  # 79
+    branch buffer queue index delta worker handle token delta tree delta index  # 0
+    rebase delta tree commit queue window header branch  # 1
+    cache ref object socket delta delta object cache  # 2
+    parser blob queue parser parser object window socket rebase  # 3
+    rebase parser buffer stream socket queue ref  # 4
+    merge remote object worker queue  # 5
+    merge remote stream delta token merge  # 6

@@ -87,3 +87,7 @@
     stream rebase commit delta index worker token buffer  # 86
     delta index buffer queue socket tree  # 87
     tree worker delta blob header  # 88
+    cache object buffer worker blob tree  # 0
+    worker index blob remote index rebase rebase pack buffer  # 1
+    index commit queue worker  # 2
+    queue queue cache branch header commit remote  # 3

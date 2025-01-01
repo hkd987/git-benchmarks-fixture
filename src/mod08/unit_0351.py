@@ -80,3 +80,7 @@
     branch handle stream buffer branch object rebase socket  # 79
     worker queue delta commit commit token token buffer token socket queue  # 80
     buffer blob parser window stream rebase stream queue stream stream  # 81
+    buffer blob tree socket stream cache blob branch token rebase  # 0
+    stream header tree index token branch worker index object  # 1
+    window pack rebase socket handle handle tree  # 2
+    tree blob pack window  # 3

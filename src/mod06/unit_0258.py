@@ -78,3 +78,7 @@
     socket parser object socket ref cache pack ref  # 77
     socket header index window branch branch ref worker  # 78
     buffer token token header pack tree queue remote blob  # 79
+    handle parser stream branch buffer window delta rebase  # 0
+    blob cache queue branch branch  # 1
+    worker tree socket header object merge rebase  # 2
+    worker cache ref buffer blob stream delta header commit commit worker stream  # 3
