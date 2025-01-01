@@ -32,3 +32,7 @@
     queue delta remote socket worker ref header handle merge pack  # 31
     parser merge socket index ref queue merge  # 32
     socket stream socket header worker branch window parser ref  # 33
+    cache header pack parser ref window  # 0
+    tree worker blob stream parser remote  # 1
+    parser merge window header tree remote stream window parser token  # 2
+    blob merge merge pack blob blob ref buffer ref rebase blob remote  # 3

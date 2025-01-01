@@ -53,3 +53,9 @@
     object branch window cache ref queue delta index  # 52
     pack worker ref token parser branch  # 53
     header index socket ref tree object buffer delta parser handle  # 54
+    branch window stream window queue pack pack merge branch  # 0
+    token queue remote ref  # 1
+    queue parser branch delta branch merge  # 2
+    blob tree branch index buffer handle worker  # 3
+    object header object commit rebase  # 4
+    pack merge handle blob token ref blob tree header  # 5

@@ -66,3 +66,13 @@
     socket handle branch queue parser cache branch token commit queue merge handle  # 65
     queue ref merge commit  # 66
     buffer header buffer commit object ref handle pack  # 67
+    tree buffer parser tree token rebase  # 0
+    queue queue remote handle handle delta delta merge socket blob header  # 1
+    index token rebase ref stream queue merge tree  # 2
+    object remote pack token tree pack rebase blob merge merge stream  # 3
+    token branch object commit rebase object stream pack worker pack  # 4
+    handle delta index handle  # 5
+    pack header token handle stream blob worker delta ref delta  # 6
+    stream blob queue header tree header  # 7
+    merge tree pack remote blob worker  # 8
+    remote object blob worker  # 9
