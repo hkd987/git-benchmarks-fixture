@@ -39,3 +39,7 @@
     parser delta rebase token stream handle socket blob handle  # 38
     object index delta delta branch buffer  # 39
     index index remote token worker worker cache worker handle socket  # 40
+    socket branch remote delta commit header merge  # 0
+    merge socket queue blob parser  # 1
+    window ref remote remote  # 2
+    cache pack blob stream cache branch commit merge header queue  # 3

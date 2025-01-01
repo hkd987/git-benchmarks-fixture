@@ -32,3 +32,8 @@
     rebase buffer handle parser socket  # 31
     handle index handle object merge merge parser pack delta stream blob  # 32
     index merge token queue index index commit index stream  # 33
+    pack ref header window stream merge header  # 0
+    handle queue handle token queue rebase  # 1
+    buffer branch parser pack parser merge header queue  # 2
+    worker object stream window branch parser merge  # 3
+    parser blob cache blob socket worker handle  # 4
