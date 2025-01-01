@@ -37,3 +37,8 @@
     pack queue rebase delta commit branch pack buffer cache  # 36
     ref queue token pack blob object  # 37
     merge merge branch blob  # 38
+    queue parser pack tree window buffer handle  # 0
+    pack tree tree delta handle stream socket merge rebase handle  # 1
+    buffer ref pack buffer tree pack tree rebase handle  # 2
+    buffer token buffer blob index merge stream object blob queue  # 3
+    object rebase parser blob buffer object  # 4
