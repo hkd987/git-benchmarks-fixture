@@ -79,3 +79,14 @@
     tree buffer index parser handle socket object  # 78
     merge token commit object pack window  # 79
     handle token queue pack parser merge tree  # 80
+    handle merge handle parser delta object parser token stream window buffer  # 0
+    branch pack token parser object tree cache commit delta remote index  # 1
+    buffer delta stream ref stream index header  # 2
+    blob token blob worker parser  # 3
+    socket rebase delta cache token commit object merge delta  # 4
+    pack remote socket commit  # 5
+    ref worker header blob handle queue socket  # 6
+    ref ref worker index delta  # 7
+    window delta stream buffer index rebase handle  # 8
+    handle worker merge remote remote delta  # 9
+    handle buffer merge window index buffer rebase stream stream rebase  # 10
