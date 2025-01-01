@@ -66,3 +66,8 @@
     delta branch merge pack remote commit pack socket window pack object  # 65
     branch object tree buffer worker  # 66
     socket cache stream parser delta  # 67
+    merge merge tree rebase cache  # 0
+    token index handle cache commit stream index branch token  # 1
+    window header delta branch delta  # 2
+    rebase branch merge queue tree  # 3
+    index window worker header delta queue buffer ref object window  # 4

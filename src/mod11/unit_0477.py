@@ -76,3 +76,10 @@
     commit delta queue remote stream queue worker index ref cache tree  # 75
     merge window token branch object  # 76
     pack tree merge remote socket commit  # 77
+    queue token object parser rebase buffer remote object header socket pack pack  # 0
+    token blob remote queue  # 1
+    window handle handle merge remote stream object delta token  # 2
+    branch handle merge branch pack cache window  # 3
+    buffer commit header delta delta  # 4
+    token worker delta buffer handle window tree buffer rebase  # 5
+    socket worker tree ref queue stream remote object buffer  # 6

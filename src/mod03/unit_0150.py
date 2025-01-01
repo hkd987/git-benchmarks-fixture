@@ -82,3 +82,11 @@
     worker worker queue parser remote worker window  # 81
     pack tree buffer object ref parser  # 82
     delta stream rebase handle  # 83
+    socket parser token blob tree blob object worker ref  # 0
+    parser worker remote buffer delta branch stream ref blob  # 1
+    pack window worker delta buffer index  # 2
+    cache branch pack blob remote stream index merge remote worker  # 3
+    socket window buffer commit object stream ref  # 4
+    pack branch token index socket handle  # 5
+    pack ref handle handle branch header socket blob pack worker worker stream  # 6
+    object parser token delta socket ref index pack remote stream  # 7

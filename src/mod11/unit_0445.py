@@ -32,3 +32,6 @@
     index tree branch index parser ref  # 31
     ref cache window index parser buffer worker parser merge object header  # 32
     socket parser branch queue queue header object  # 33
+    object pack blob cache ref socket header merge queue cache token  # 0
+    window buffer pack handle commit token rebase tree  # 1
+    buffer token queue ref delta blob window socket  # 2
