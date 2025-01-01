@@ -66,3 +66,8 @@
     handle branch tree worker index parser parser header token buffer token delta  # 65
     index delta socket delta pack handle buffer stream blob  # 66
     index worker stream branch buffer header socket token ref stream commit  # 67
+    token socket queue pack delta remote header  # 0
+    stream ref merge delta object ref pack  # 1
+    handle branch handle index header delta object  # 2
+    socket token parser header pack  # 3
+    header buffer cache commit tree window window  # 4

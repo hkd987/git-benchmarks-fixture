@@ -70,3 +70,9 @@
     object merge socket socket worker blob remote  # 1
     handle tree merge stream delta remote index worker  # 2
     stream remote stream object object commit remote branch pack worker  # 3
+    rebase pack socket header socket socket worker commit object socket worker buffer  # 0
+    delta header handle object parser branch stream header remote  # 1
+    ref remote stream blob index header ref queue rebase token  # 2
+    buffer ref cache cache tree  # 3
+    index header header pack blob remote tree  # 4
+    socket pack token buffer token queue stream branch  # 5
