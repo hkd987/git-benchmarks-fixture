@@ -47,3 +47,10 @@
     handle queue queue cache stream  # 4
     index ref object remote cache merge branch merge buffer socket rebase merge  # 5
     commit buffer handle token  # 6
+    blob cache cache header window remote header header queue rebase queue tree  # 0
+    buffer merge socket commit buffer commit  # 1
+    socket worker delta token commit  # 2
+    remote rebase blob delta cache  # 3
+    merge pack header ref pack remote socket handle handle pack  # 4
+    window cache index ref delta socket commit  # 5
+    parser ref delta token token commit parser delta  # 6

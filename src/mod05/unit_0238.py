@@ -56,3 +56,7 @@
     merge parser merge header remote delta index header merge ref  # 55
     object token index merge pack rebase header stream pack remote blob ref  # 56
     window buffer delta branch  # 57
+    remote buffer ref tree parser worker handle socket window queue  # 0
+    worker pack token branch  # 1
+    header blob tree parser merge cache branch merge cache remote  # 2
+    window stream buffer socket  # 3

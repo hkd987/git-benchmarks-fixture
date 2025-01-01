@@ -63,3 +63,6 @@
     commit branch ref tree rebase  # 7
     pack parser blob stream object  # 8
     ref merge merge handle queue merge parser header  # 9
+    buffer ref delta blob token index tree worker object  # 0
+    pack tree queue rebase ref header token remote remote branch cache stream  # 1
+    pack handle handle worker cache queue header merge object socket ref parser  # 2

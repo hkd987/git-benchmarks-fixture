@@ -36,3 +36,6 @@
     parser worker object pack  # 35
     pack worker cache window token branch commit remote remote blob queue object  # 36
     rebase socket merge rebase handle rebase  # 37
+    token cache worker merge  # 0
+    stream commit parser delta worker handle socket window socket stream queue buffer  # 1
+    stream branch branch delta remote delta branch merge branch  # 2
