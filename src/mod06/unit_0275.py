@@ -93,3 +93,17 @@
     branch branch socket delta window header stream parser delta token blob index  # 8
     commit rebase delta window socket tree delta object remote delta queue  # 9
     token pack parser socket object object pack  # 10
+    token handle rebase tree token  # 0
+    queue delta stream pack parser remote rebase  # 1
+    cache index remote object window stream parser blob  # 2
+    tree object index merge stream index object index  # 3
+    queue blob blob queue blob cache queue merge  # 4
+    socket blob header merge merge delta branch stream window cache rebase  # 5
+    remote tree token socket merge worker queue token tree  # 6
+    parser commit token parser tree handle worker remote handle pack delta blob  # 7
+    delta remote token rebase branch  # 8
+    cache buffer buffer object parser parser worker buffer rebase token  # 9
+    commit branch index token  # 10
+    socket ref blob socket worker branch tree token remote buffer window  # 11
+    buffer index blob object tree queue worker ref cache socket  # 12
+    merge blob window queue stream stream pack blob object commit tree  # 13
