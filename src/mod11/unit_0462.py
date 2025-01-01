@@ -77,3 +77,6 @@
     remote ref branch delta  # 76
     token token stream pack  # 77
     buffer index handle index token object  # 78
+    token header token merge window stream commit token queue pack cache  # 0
+    window socket queue handle ref  # 1
+    ref object parser window token delta parser merge  # 2

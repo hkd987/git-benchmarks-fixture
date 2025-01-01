@@ -34,3 +34,12 @@
     rebase object header branch commit  # 33
     tree ref header commit commit branch pack  # 34
     delta rebase header ref commit commit tree delta window socket branch  # 35
+    worker commit worker ref header stream remote pack queue merge buffer  # 0
+    parser tree queue socket buffer token parser object  # 1
+    socket queue handle token index tree  # 2
+    object index branch buffer worker socket parser window worker socket  # 3
+    header tree window stream worker  # 4
+    branch queue pack token  # 5
+    pack queue socket worker merge buffer worker queue ref socket pack  # 6
+    merge socket tree stream pack header buffer ref token object  # 7
+    rebase object header ref pack parser pack header ref  # 8
