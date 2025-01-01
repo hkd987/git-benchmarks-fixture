@@ -45,3 +45,6 @@
     remote commit pack branch pack cache  # 44
     stream tree index worker branch buffer rebase  # 45
     ref socket queue cache object object cache pack queue merge tree handle  # 46
+    remote handle window delta worker socket window header rebase queue  # 0
+    cache parser commit remote stream queue branch  # 1
+    branch merge window branch remote ref handle object object window blob tree  # 2

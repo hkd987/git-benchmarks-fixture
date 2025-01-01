@@ -57,3 +57,13 @@
     header delta object merge  # 56
     branch worker token commit rebase branch cache blob  # 57
     stream delta header buffer parser branch delta header commit stream token  # 58
+    header queue rebase branch  # 0
+    queue pack merge commit object blob header  # 1
+    tree rebase parser pack window pack merge buffer queue branch window worker  # 2
+    tree token commit cache merge pack worker  # 3
+    commit object token socket delta handle  # 4
+    header pack stream delta  # 5
+    socket parser delta remote socket delta rebase queue tree header parser delta  # 6
+    handle buffer index rebase cache  # 7
+    commit object object stream cache rebase branch commit queue rebase  # 8
+    branch pack parser window queue  # 9

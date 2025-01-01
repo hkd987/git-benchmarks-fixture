@@ -70,3 +70,6 @@
     index rebase merge index tree rebase ref window remote  # 69
     object remote object header socket cache object  # 70
     stream window rebase window  # 71
+    remote handle pack header header socket parser rebase cache  # 0
+    pack remote stream token index stream handle parser branch  # 1
+    branch parser ref cache index queue window stream  # 2
