@@ -73,3 +73,11 @@
     object delta remote tree socket object branch  # 72
     handle tree tree remote commit object  # 73
     index buffer socket worker  # 74
+    remote parser ref header header stream merge handle  # 0
+    object token branch buffer rebase rebase merge object branch handle ref handle  # 1
+    token worker tree worker stream buffer pack merge remote cache  # 2
+    token ref rebase commit header parser tree commit delta merge object delta  # 3
+    queue tree remote pack buffer socket remote  # 4
+    token tree worker queue object  # 5
+    token commit index remote branch tree handle branch header blob token buffer  # 6
+    rebase object branch ref tree queue ref index  # 7

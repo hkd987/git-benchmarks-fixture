@@ -34,3 +34,12 @@
     remote buffer pack window branch  # 33
     ref worker tree branch cache worker parser blob ref  # 34
     commit commit index parser ref header queue tree stream handle  # 35
+    delta worker header blob ref  # 0
+    buffer window socket worker cache commit header  # 1
+    token window rebase buffer  # 2
+    buffer remote parser rebase socket  # 3
+    branch stream worker remote header token queue  # 4
+    cache buffer cache handle rebase ref window  # 5
+    merge parser buffer parser socket queue handle parser header  # 6
+    object handle rebase branch  # 7
+    worker blob socket commit header worker queue branch tree remote  # 8
