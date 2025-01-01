@@ -65,3 +65,7 @@
     tree tree stream index header socket  # 64
     parser delta handle buffer buffer rebase merge blob socket  # 65
     worker token object rebase remote  # 66
+    socket header ref cache  # 0
+    commit commit cache buffer commit object commit stream  # 1
+    worker blob ref token ref object parser header parser remote token  # 2
+    cache merge parser header header stream ref branch  # 3

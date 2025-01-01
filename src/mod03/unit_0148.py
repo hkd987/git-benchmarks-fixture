@@ -49,3 +49,7 @@
     blob cache pack remote index tree handle merge  # 48
     merge branch header handle ref token queue  # 49
     merge rebase index window worker  # 50
+    stream remote parser object queue  # 0
+    branch delta queue buffer header pack worker header header  # 1
+    index index header commit cache stream  # 2
+    object cache queue merge tree branch branch  # 3

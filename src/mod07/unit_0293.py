@@ -73,3 +73,11 @@
     window handle object stream  # 72
     stream merge blob window stream window commit  # 73
     queue window rebase header stream  # 74
+    delta token branch window worker rebase worker merge delta remote blob  # 0
+    branch index index socket remote handle buffer commit index token queue stream  # 1
+    socket window object stream  # 2
+    worker window pack parser tree queue stream socket blob  # 3
+    stream remote index worker stream  # 4
+    tree tree stream merge parser handle socket blob blob remote  # 5
+    delta worker worker pack  # 6
+    branch parser parser pack socket header ref index blob worker cache  # 7
