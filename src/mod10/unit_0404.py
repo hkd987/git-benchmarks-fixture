@@ -50,3 +50,13 @@
     parser worker token stream  # 49
     remote pack parser rebase rebase rebase socket worker worker  # 50
     worker branch tree handle stream buffer  # 51
+    blob parser ref handle queue handle  # 0
+    buffer header cache tree handle rebase delta handle stream tree  # 1
+    rebase pack socket parser socket token cache index ref  # 2
+    handle handle object header stream commit queue index  # 3
+    parser index worker stream handle index  # 4
+    handle worker header socket cache  # 5
+    rebase worker tree parser rebase stream  # 6
+    header stream worker tree stream cache  # 7
+    buffer merge token object handle worker header handle buffer  # 8
+    object tree header parser cache rebase index cache index  # 9

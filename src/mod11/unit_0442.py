@@ -60,3 +60,8 @@
     pack pack blob header branch socket queue cache index  # 59
     buffer branch token blob tree merge token header ref tree  # 60
     buffer window commit parser queue cache ref tree worker remote  # 61
+    worker header rebase socket  # 0
+    tree token socket cache remote window buffer worker tree queue remote  # 1
+    window handle tree window handle merge socket worker worker pack  # 2
+    window merge window pack queue delta ref ref commit  # 3
+    parser remote cache header rebase merge commit merge queue queue ref  # 4
