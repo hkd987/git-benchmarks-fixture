@@ -34,3 +34,8 @@
     queue object parser delta stream remote handle worker queue pack  # 33
     ref branch buffer cache object merge stream worker ref  # 34
     ref object queue socket index worker header  # 35
+    window parser delta queue merge object window rebase  # 0
+    pack delta worker tree rebase worker worker tree window tree pack  # 1
+    buffer parser merge commit object buffer rebase rebase cache index socket  # 2
+    stream parser queue rebase  # 3
+    ref tree tree pack worker pack window  # 4

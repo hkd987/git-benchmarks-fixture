@@ -83,3 +83,10 @@
     cache buffer pack window header handle commit rebase ref window commit  # 82
     token merge queue object socket worker blob index  # 83
     remote queue object stream stream  # 84
+    handle worker parser worker handle merge  # 0
+    stream rebase stream stream merge index pack  # 1
+    pack header commit parser remote buffer merge remote rebase  # 2
+    rebase queue rebase ref socket cache  # 3
+    blob ref remote parser rebase stream object object token window commit merge  # 4
+    rebase cache commit buffer rebase buffer index rebase socket cache worker merge  # 5
+    token handle remote queue merge buffer  # 6

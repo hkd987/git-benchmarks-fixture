@@ -81,3 +81,10 @@
     commit blob worker stream queue merge cache  # 80
     token delta cache cache commit socket pack window merge  # 81
     pack buffer worker pack header blob  # 82
+    object buffer worker merge merge pack buffer worker object object index index  # 0
+    stream header queue rebase window pack header worker tree window queue  # 1
+    branch commit object handle buffer delta tree  # 2
+    index worker index branch  # 3
+    merge ref queue window buffer  # 4
+    handle index pack delta handle ref delta window  # 5
+    branch parser commit window branch token window token handle branch parser stream  # 6
