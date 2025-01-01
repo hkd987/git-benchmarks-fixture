@@ -66,3 +66,7 @@
     merge index token delta delta  # 65
     queue blob branch pack delta token handle parser ref worker stream delta  # 66
     remote remote merge merge tree socket stream  # 67
+    parser tree token header token  # 0
+    object merge socket socket worker blob remote  # 1
+    handle tree merge stream delta remote index worker  # 2
+    stream remote stream object object commit remote branch pack worker  # 3
