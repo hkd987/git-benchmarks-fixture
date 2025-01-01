@@ -64,3 +64,6 @@
     stream header rebase blob cache buffer buffer commit pack delta queue  # 63
     handle commit branch stream object cache queue handle  # 64
     buffer remote branch object  # 65
+    token branch tree tree pack  # 0
+    rebase commit branch handle parser pack handle tree  # 1
+    stream parser worker stream ref rebase socket commit commit delta tree  # 2

@@ -83,3 +83,9 @@
     window ref socket blob remote parser pack tree object socket  # 82
     pack tree pack rebase queue tree parser stream header parser stream  # 83
     pack stream commit tree index buffer handle merge worker window  # 84
+    buffer tree tree queue worker  # 0
+    blob delta window parser blob commit  # 1
+    pack header merge queue pack header remote worker  # 2
+    buffer worker handle remote queue  # 3
+    token pack remote blob token header  # 4
+    window branch object object stream branch socket worker index branch handle merge  # 5
