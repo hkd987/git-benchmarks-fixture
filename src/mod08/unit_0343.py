@@ -57,3 +57,16 @@
     header branch object remote  # 56
     token merge commit tree index remote  # 57
     object token token stream  # 58
+    branch socket window header index remote parser queue parser socket remote  # 0
+    merge pack stream object worker commit buffer index  # 1
+    index token worker tree window parser index queue object  # 2
+    blob commit buffer buffer remote worker object delta handle  # 3
+    socket blob handle window header socket stream token buffer rebase delta cache  # 4
+    parser pack branch blob index buffer blob object header header commit remote  # 5
+    index object pack cache tree  # 6
+    pack stream worker token pack  # 7
+    cache window worker merge cache stream token pack  # 8
+    socket header cache parser  # 9
+    token index buffer tree remote  # 10
+    header index pack pack buffer remote  # 11
+    commit buffer stream socket token merge  # 12

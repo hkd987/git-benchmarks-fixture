@@ -78,3 +78,15 @@
     parser parser commit commit  # 7
     index queue handle buffer parser  # 8
     remote buffer remote handle branch  # 9
+    blob handle handle index  # 0
+    cache worker merge commit object header pack index  # 1
+    rebase index object worker pack queue remote remote handle header  # 2
+    parser cache stream worker  # 3
+    merge commit window worker ref rebase  # 4
+    object handle commit branch  # 5
+    index ref worker queue delta commit object object token parser  # 6
+    worker branch index tree tree queue delta token blob delta pack index  # 7
+    token rebase pack remote merge cache header  # 8
+    pack delta ref branch parser tree  # 9
+    tree branch token merge blob  # 10
+    commit object rebase handle remote  # 11

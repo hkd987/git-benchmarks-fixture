@@ -60,3 +60,6 @@
     worker buffer blob remote buffer  # 59
     window rebase cache worker remote queue rebase socket stream  # 60
     socket token buffer worker handle object worker merge cache tree  # 61
+    blob token stream remote ref commit commit pack tree delta buffer  # 0
+    pack buffer buffer ref commit cache parser remote pack rebase  # 1
+    delta stream merge branch queue index  # 2

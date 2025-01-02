@@ -84,3 +84,7 @@
     stream pack window merge commit window worker object queue  # 83
     socket commit socket remote rebase header  # 84
     window cache delta window tree handle window branch buffer queue buffer  # 85
+    commit pack worker header handle object cache  # 0
+    parser tree pack remote delta socket window stream merge object  # 1
+    delta window queue tree  # 2
+    remote commit index ref queue handle socket handle  # 3

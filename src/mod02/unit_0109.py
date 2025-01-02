@@ -57,3 +57,12 @@
     parser tree buffer object queue delta  # 56
     delta index window parser remote parser remote  # 57
     commit header merge queue stream branch socket object object queue parser  # 58
+    parser remote rebase delta  # 0
+    handle rebase window commit token handle header merge window ref handle  # 1
+    worker cache object socket pack stream tree parser  # 2
+    window merge queue cache pack window commit  # 3
+    blob token pack queue handle commit remote socket blob  # 4
+    socket index socket commit header window cache object socket  # 5
+    window remote queue queue  # 6
+    tree merge pack ref parser tree pack  # 7
+    merge token header queue socket buffer queue socket socket  # 8
