@@ -79,3 +79,8 @@
     queue merge stream stream index pack tree  # 78
     branch commit buffer merge index index queue parser rebase parser blob index  # 79
     socket token token delta commit worker token queue merge  # 80
+    branch pack branch object buffer pack queue ref index pack worker  # 0
+    pack object header buffer socket remote buffer worker handle  # 1
+    token delta blob tree pack tree header window branch delta buffer  # 2
+    branch socket window socket window buffer rebase delta pack cache header  # 3
+    index header header window header ref delta remote blob remote index blob  # 4

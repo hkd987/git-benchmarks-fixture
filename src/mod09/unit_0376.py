@@ -35,3 +35,10 @@
     handle branch merge handle parser index  # 34
     token commit parser queue buffer index stream ref pack remote ref  # 35
     buffer worker blob handle merge pack cache queue merge tree remote remote  # 36
+    token index merge ref parser commit window parser commit  # 0
+    worker stream window index queue socket  # 1
+    ref merge handle object stream  # 2
+    buffer branch parser stream  # 3
+    remote tree token tree parser blob branch remote parser  # 4
+    worker buffer parser merge buffer merge buffer pack index  # 5
+    queue handle token window branch rebase commit commit blob parser remote branch  # 6

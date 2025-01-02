@@ -84,3 +84,8 @@
     delta remote object queue window remote delta merge merge window  # 5
     handle socket token queue  # 6
     object cache cache queue  # 7
+    token stream worker rebase object ref ref tree  # 0
+    rebase pack header remote buffer blob token pack  # 1
+    token object commit window parser object  # 2
+    tree rebase cache header  # 3
+    ref remote socket worker socket ref delta merge window socket  # 4

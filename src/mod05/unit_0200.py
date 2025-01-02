@@ -60,3 +60,13 @@
     window remote pack remote merge rebase merge worker  # 59
     branch socket cache merge queue stream  # 60
     commit cache buffer delta ref branch stream rebase merge  # 61
+    handle rebase merge buffer window pack cache window branch socket cache  # 0
+    object index branch handle buffer ref branch token stream remote object tree  # 1
+    merge token header object socket stream index  # 2
+    cache buffer delta socket tree header  # 3
+    index pack socket merge  # 4
+    stream merge queue parser object token branch  # 5
+    parser header socket object remote  # 6
+    socket index index worker branch  # 7
+    header token header parser stream header branch token window pack  # 8
+    buffer handle remote delta tree  # 9
