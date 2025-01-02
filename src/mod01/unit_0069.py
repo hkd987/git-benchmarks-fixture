@@ -48,3 +48,9 @@
     blob socket remote index delta remote  # 47
     rebase remote window parser socket buffer tree  # 48
     queue parser header socket window header commit header  # 49
+    blob object queue remote stream object token header token  # 0
+    handle stream rebase pack delta parser index worker branch stream worker pack  # 1
+    window window object buffer tree header cache  # 2
+    parser object socket commit  # 3
+    rebase parser handle branch rebase branch tree object delta worker  # 4
+    commit queue remote queue window remote merge index queue delta parser commit  # 5

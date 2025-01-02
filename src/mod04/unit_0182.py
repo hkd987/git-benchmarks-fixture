@@ -72,3 +72,7 @@
     handle cache index pack  # 71
     commit ref tree blob token tree ref worker cache delta  # 72
     handle index ref remote branch  # 73
+    worker rebase object branch ref stream commit parser  # 0
+    handle merge ref window buffer object buffer window  # 1
+    branch ref queue socket pack rebase rebase socket remote rebase branch  # 2
+    blob pack remote buffer header parser delta branch blob index index  # 3
