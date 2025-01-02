@@ -43,3 +43,9 @@
     stream object remote socket header queue token stream remote blob worker rebase  # 42
     socket stream cache object socket branch rebase  # 43
     delta parser handle buffer rebase buffer buffer ref token header queue  # 44
+    index ref ref header commit index index ref object  # 0
+    delta index commit tree token blob ref  # 1
+    branch rebase pack remote commit worker commit branch remote header  # 2
+    rebase socket pack worker socket pack rebase stream window rebase  # 3
+    branch queue tree rebase buffer  # 4
+    tree branch worker branch cache cache commit window  # 5

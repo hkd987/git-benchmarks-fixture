@@ -83,3 +83,6 @@
     queue window delta worker worker commit commit cache ref token ref  # 82
     blob commit window merge remote blob index cache cache blob header worker  # 83
     cache commit ref token index stream remote buffer  # 84
+    object rebase queue delta merge socket remote  # 0
+    delta cache worker rebase buffer socket parser branch pack branch token  # 1
+    remote buffer delta blob remote object ref  # 2
