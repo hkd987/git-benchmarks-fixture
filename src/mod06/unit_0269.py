@@ -50,3 +50,9 @@
     rebase window pack socket ref index socket  # 49
     delta rebase stream header buffer worker remote pack remote  # 50
     header blob object tree tree merge queue blob  # 51
+    pack rebase handle index token branch stream  # 0
+    delta buffer ref remote window window parser pack  # 1
+    pack merge ref stream  # 2
+    buffer cache socket pack tree tree stream  # 3
+    socket delta index merge buffer object ref remote rebase  # 4
+    buffer blob cache worker remote blob delta merge merge window  # 5

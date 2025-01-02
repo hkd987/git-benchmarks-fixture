@@ -71,3 +71,12 @@
     handle branch handle index header delta object  # 2
     socket token parser header pack  # 3
     header buffer cache commit tree window window  # 4
+    branch handle pack window ref window rebase rebase object  # 0
+    header socket queue object commit socket token remote handle  # 1
+    stream pack tree commit ref token delta parser  # 2
+    socket buffer socket socket blob pack blob  # 3
+    queue delta delta cache commit window header parser tree rebase  # 4
+    header queue worker branch pack object index merge token tree  # 5
+    object pack cache worker commit remote blob handle merge  # 6
+    object stream index handle handle object socket delta token blob window queue  # 7
+    merge commit cache index commit delta branch queue handle delta worker  # 8
