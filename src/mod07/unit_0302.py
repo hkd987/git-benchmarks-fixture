@@ -78,3 +78,10 @@
     rebase worker stream object socket socket remote blob merge handle pack  # 7
     header rebase buffer cache buffer remote cache branch worker blob index token  # 8
     object worker buffer token parser token object  # 9
+    merge header pack pack rebase  # 0
+    tree merge blob branch  # 1
+    tree branch index parser window index stream index  # 2
+    stream socket parser remote index  # 3
+    ref worker queue merge blob buffer rebase delta  # 4
+    queue buffer socket parser tree ref ref buffer worker index  # 5
+    parser handle pack ref ref parser worker index index handle  # 6
