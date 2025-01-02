@@ -61,3 +61,9 @@
     rebase socket token queue rebase stream blob header window branch branch merge  # 60
     tree remote tree queue rebase parser  # 61
     branch stream pack blob buffer commit branch ref remote worker  # 62
+    stream remote handle worker header buffer merge commit  # 0
+    buffer remote pack pack branch blob pack  # 1
+    stream parser merge buffer parser branch merge  # 2
+    window header worker socket  # 3
+    delta worker header handle buffer merge  # 4
+    header object branch pack commit  # 5
