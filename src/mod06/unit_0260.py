@@ -81,3 +81,8 @@
     token tree worker queue object  # 5
     token commit index remote branch tree handle branch header blob token buffer  # 6
     rebase object branch ref tree queue ref index  # 7
+    object object index buffer ref  # 0
+    branch delta index queue window pack object  # 1
+    object tree blob merge cache  # 2
+    worker parser stream pack branch pack commit merge  # 3
+    rebase commit stream window  # 4
