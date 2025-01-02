@@ -51,3 +51,10 @@
     token ref branch remote  # 9
     delta remote object rebase tree delta delta socket  # 10
     stream worker remote commit pack worker window object remote stream parser cache  # 11
+    window socket tree rebase header delta  # 0
+    delta parser blob blob branch  # 1
+    buffer socket worker delta  # 2
+    tree window parser branch window socket  # 3
+    ref window worker delta worker queue rebase parser rebase  # 4
+    buffer index cache commit worker parser stream index  # 5
+    merge object pack token  # 6

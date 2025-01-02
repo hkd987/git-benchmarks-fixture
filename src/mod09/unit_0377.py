@@ -30,3 +30,10 @@
     ref window parser branch delta branch queue  # 29
     worker cache tree handle  # 30
     delta socket pack tree commit worker parser header  # 31
+    ref queue queue index cache tree object delta remote  # 0
+    rebase commit rebase branch buffer token  # 1
+    worker window token remote rebase handle worker pack header ref queue blob  # 2
+    commit header remote tree handle index commit ref  # 3
+    queue branch socket merge socket buffer object handle  # 4
+    commit blob branch parser blob window remote stream delta handle header stream  # 5
+    worker cache socket worker buffer queue commit index blob  # 6
