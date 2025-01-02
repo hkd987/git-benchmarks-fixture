@@ -72,3 +72,7 @@
     handle ref index window parser  # 71
     commit object merge cache handle object cache index cache  # 72
     cache remote pack delta header rebase pack stream window  # 73
+    socket worker stream socket object pack queue socket index worker index  # 0
+    merge object window stream buffer merge remote object  # 1
+    merge rebase commit window header rebase commit remote pack blob  # 2
+    index delta header object window stream buffer tree handle queue  # 3

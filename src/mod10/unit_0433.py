@@ -28,3 +28,10 @@
     queue rebase tree remote  # 27
     cache delta blob worker remote  # 28
     blob socket socket buffer object worker stream header queue  # 29
+    socket cache window buffer blob buffer socket socket worker  # 0
+    parser rebase token queue stream object  # 1
+    blob branch object branch index parser index cache branch  # 2
+    window stream cache blob parser token worker commit remote buffer stream  # 3
+    stream remote queue handle  # 4
+    buffer buffer parser socket socket object handle rebase  # 5
+    worker branch pack socket header delta pack  # 6

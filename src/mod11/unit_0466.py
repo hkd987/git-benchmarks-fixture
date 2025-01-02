@@ -71,3 +71,11 @@
     window header delta branch delta  # 2
     rebase branch merge queue tree  # 3
     index window worker header delta queue buffer ref object window  # 4
+    pack ref commit merge branch window socket index window window window  # 0
+    queue object handle socket worker delta handle handle  # 1
+    parser remote worker commit tree rebase blob worker blob blob token rebase  # 2
+    stream window index window queue handle  # 3
+    index tree rebase rebase commit  # 4
+    stream buffer tree delta blob header tree blob buffer index branch remote  # 5
+    window worker queue worker index cache cache ref ref rebase  # 6
+    window delta tree merge rebase  # 7
