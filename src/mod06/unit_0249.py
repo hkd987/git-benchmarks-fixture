@@ -84,3 +84,12 @@
     socket tree stream socket rebase rebase buffer queue parser index header  # 83
     buffer socket worker header socket object token parser ref  # 84
     buffer parser window window  # 85
+    index rebase socket buffer rebase window worker  # 0
+    stream worker tree index cache  # 1
+    stream tree blob pack ref  # 2
+    buffer parser merge handle delta window queue stream pack handle remote  # 3
+    buffer cache pack pack  # 4
+    header ref parser rebase worker socket handle commit tree rebase token cache  # 5
+    index handle queue blob merge buffer header delta cache branch  # 6
+    object rebase worker parser token object worker merge cache merge window parser  # 7
+    token object queue remote object stream tree remote  # 8

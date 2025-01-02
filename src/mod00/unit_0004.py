@@ -69,3 +69,6 @@
     buffer remote pack remote commit delta cache  # 68
     token delta branch delta buffer rebase  # 69
     branch delta cache cache merge remote window window  # 70
+    tree header parser stream merge index rebase branch  # 0
+    handle worker header parser  # 1
+    parser header merge token merge queue stream worker handle buffer  # 2
