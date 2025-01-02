@@ -60,3 +60,9 @@
     worker pack token branch  # 1
     header blob tree parser merge cache branch merge cache remote  # 2
     window stream buffer socket  # 3
+    branch socket merge tree ref commit object header tree ref object tree  # 0
+    header branch cache tree  # 1
+    buffer remote window cache blob socket ref  # 2
+    branch tree worker buffer merge parser header  # 3
+    tree socket object handle merge rebase token branch rebase commit branch  # 4
+    socket window merge branch rebase branch branch socket cache pack branch branch  # 5
