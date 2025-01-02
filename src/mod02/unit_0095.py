@@ -44,3 +44,15 @@
     cache header object object token worker socket object remote token header cache  # 43
     object pack object tree pack socket queue  # 44
     branch blob commit parser object ref header object header header  # 45
+    window commit window branch header queue window tree  # 0
+    pack token window merge queue handle header merge cache window  # 1
+    header delta branch object merge rebase token stream worker rebase queue cache  # 2
+    worker parser branch parser ref queue window object branch object  # 3
+    tree remote pack queue cache window buffer worker worker handle  # 4
+    commit pack branch branch delta remote parser buffer ref queue delta  # 5
+    stream ref tree branch delta delta socket delta delta  # 6
+    tree buffer header commit  # 7
+    commit tree token cache worker index stream token header  # 8
+    parser blob commit branch object pack window blob handle remote tree  # 9
+    remote index cache cache commit queue header rebase rebase rebase remote buffer  # 10
+    branch socket window token index pack queue queue cache tree  # 11

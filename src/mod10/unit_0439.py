@@ -64,3 +64,10 @@
     queue socket tree object blob cache commit header buffer  # 63
     buffer commit stream branch pack header queue blob ref header  # 64
     header pack handle branch cache  # 65
+    delta stream worker blob handle branch parser header tree index pack ref  # 0
+    remote worker delta remote header parser header pack  # 1
+    branch blob socket handle  # 2
+    tree rebase object worker handle ref header  # 3
+    header index handle stream handle header  # 4
+    cache commit rebase branch handle branch blob socket remote stream cache merge  # 5
+    tree index stream index index  # 6

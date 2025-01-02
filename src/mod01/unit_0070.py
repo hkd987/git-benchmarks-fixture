@@ -81,3 +81,10 @@
     tree branch socket socket commit  # 80
     index socket worker remote  # 81
     tree worker handle merge window stream ref  # 82
+    blob merge token queue merge remote token cache window blob  # 0
+    rebase index ref window merge token ref  # 1
+    commit worker commit worker buffer socket socket remote remote ref cache index  # 2
+    window window worker branch delta  # 3
+    worker merge index socket token worker handle  # 4
+    token ref delta parser object queue  # 5
+    object merge cache cache header rebase pack blob parser worker buffer delta  # 6
