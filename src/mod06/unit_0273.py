@@ -73,3 +73,9 @@
     cache header handle index cache blob handle token  # 72
     object delta queue blob  # 73
     window buffer cache pack delta pack queue tree rebase queue rebase  # 74
+    token commit remote commit rebase commit merge rebase token index handle  # 0
+    window remote tree rebase buffer handle handle cache queue  # 1
+    handle blob queue handle cache  # 2
+    ref parser parser pack window rebase blob buffer  # 3
+    handle object window delta queue merge stream merge window cache  # 4
+    ref cache parser handle socket cache token  # 5

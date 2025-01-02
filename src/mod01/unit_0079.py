@@ -40,3 +40,8 @@
     object parser socket buffer stream cache parser commit handle  # 39
     object queue handle worker tree window token window rebase  # 40
     stream branch handle cache commit cache parser token rebase handle  # 41
+    pack parser window tree rebase ref worker blob tree worker queue  # 0
+    object header ref queue window commit cache  # 1
+    window buffer parser handle blob queue worker handle token tree worker commit  # 2
+    window commit commit rebase buffer worker token cache token pack rebase  # 3
+    worker branch object blob queue remote buffer  # 4

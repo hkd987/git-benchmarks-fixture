@@ -73,3 +73,8 @@
     rebase index window stream header cache window queue queue delta tree  # 72
     handle rebase handle rebase parser  # 73
     branch pack window buffer index queue worker rebase delta object worker blob  # 74
+    commit object token tree index window cache ref buffer buffer merge  # 0
+    delta parser branch ref parser blob tree window  # 1
+    token window socket rebase pack token branch worker commit worker index branch  # 2
+    tree tree worker pack token delta ref token commit tree stream buffer  # 3
+    worker cache parser blob branch socket  # 4
