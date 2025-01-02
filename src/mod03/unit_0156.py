@@ -40,3 +40,7 @@
     worker parser remote cache buffer index rebase cache branch pack delta  # 39
     object token ref delta handle  # 40
     object ref parser merge token buffer commit  # 41
+    merge cache buffer tree  # 0
+    commit queue handle tree remote object stream  # 1
+    worker branch tree index worker handle cache  # 2
+    rebase pack socket delta index branch window handle  # 3

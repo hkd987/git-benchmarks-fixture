@@ -76,3 +76,6 @@
     handle merge ref window buffer object buffer window  # 1
     branch ref queue socket pack rebase rebase socket remote rebase branch  # 2
     blob pack remote buffer header parser delta branch blob index index  # 3
+    remote delta object worker branch window ref cache remote  # 0
+    stream merge socket buffer  # 1
+    tree socket pack tree remote commit socket tree blob commit ref  # 2

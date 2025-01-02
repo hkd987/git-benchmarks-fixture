@@ -55,3 +55,8 @@
     token merge remote pack  # 54
     blob handle rebase cache remote parser object  # 55
     cache handle rebase merge  # 56
+    handle blob header buffer blob cache token  # 0
+    index merge delta branch header buffer remote parser ref commit worker rebase  # 1
+    socket rebase token delta delta remote window index ref pack queue  # 2
+    window branch remote token stream worker delta socket worker  # 3
+    socket stream rebase remote ref worker pack  # 4
