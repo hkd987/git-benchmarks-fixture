@@ -84,3 +84,15 @@
     token delta blob tree pack tree header window branch delta buffer  # 2
     branch socket window socket window buffer rebase delta pack cache header  # 3
     index header header window header ref delta remote blob remote index blob  # 4
+    rebase parser socket delta ref queue  # 0
+    handle parser worker socket cache header branch rebase commit pack rebase header  # 1
+    blob delta buffer pack handle window tree  # 2
+    pack object worker header branch branch cache header  # 3
+    socket cache queue tree tree tree tree rebase object branch  # 4
+    window pack pack commit cache  # 5
+    window index token rebase ref buffer index rebase worker worker branch socket  # 6
+    pack blob ref commit header queue handle  # 7
+    parser worker rebase index delta  # 8
+    commit pack queue parser blob branch buffer commit header remote cache  # 9
+    blob window window tree buffer ref token header parser  # 10
+    cache tree handle token cache  # 11

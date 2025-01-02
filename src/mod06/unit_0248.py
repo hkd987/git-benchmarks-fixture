@@ -53,3 +53,7 @@
     handle queue header worker blob  # 3
     window rebase branch pack header  # 4
     commit commit index stream buffer object queue pack socket tree  # 5
+    object tree ref buffer object stream header ref header commit  # 0
+    worker blob socket merge parser remote index socket delta object  # 1
+    index buffer object buffer stream handle  # 2
+    object parser merge token socket branch stream object branch header  # 3
