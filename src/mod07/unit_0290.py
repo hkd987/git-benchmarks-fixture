@@ -83,3 +83,10 @@
     object remote parser commit remote queue queue commit buffer pack pack  # 82
     parser object commit index commit blob  # 83
     socket queue parser object socket header rebase stream ref merge stream  # 84
+    rebase rebase commit handle  # 0
+    index remote socket buffer index handle remote blob branch pack parser merge  # 1
+    handle ref ref index remote buffer handle rebase branch object buffer merge  # 2
+    token blob stream cache handle blob blob cache commit index handle pack  # 3
+    stream cache queue socket commit commit handle branch commit rebase header  # 4
+    cache blob tree commit token rebase branch parser  # 5
+    pack socket token parser worker merge delta parser token socket worker window  # 6

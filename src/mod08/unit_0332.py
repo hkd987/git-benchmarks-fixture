@@ -33,3 +33,6 @@
     header index token header commit  # 32
     queue index merge socket header header rebase  # 33
     object ref token ref remote  # 34
+    index merge ref pack handle blob commit remote  # 0
+    parser blob cache worker  # 1
+    queue blob buffer stream merge buffer index merge handle  # 2

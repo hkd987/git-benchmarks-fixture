@@ -80,3 +80,13 @@
     handle handle handle rebase stream stream index socket index  # 79
     commit ref merge buffer buffer rebase index socket  # 80
     parser token commit handle commit cache  # 81
+    cache rebase stream index socket  # 0
+    branch rebase socket buffer cache commit queue socket ref blob pack  # 1
+    parser branch object token commit pack ref ref  # 2
+    rebase object tree merge branch pack delta delta socket header branch  # 3
+    object ref parser rebase parser header socket  # 4
+    rebase branch object rebase cache branch socket ref index worker  # 5
+    window socket rebase header branch merge branch  # 6
+    socket header cache object  # 7
+    worker worker merge merge window buffer object buffer  # 8
+    remote ref delta cache queue header stream  # 9

@@ -36,3 +36,8 @@
     pack window object branch tree remote merge worker delta stream remote header  # 35
     rebase rebase ref pack parser ref  # 36
     header tree tree rebase  # 37
+    token handle tree cache parser stream index cache cache header blob index  # 0
+    buffer parser header pack merge object ref header  # 1
+    rebase object socket handle cache token object tree blob  # 2
+    queue header buffer pack object queue blob stream delta commit  # 3
+    commit token rebase cache remote blob queue tree  # 4
