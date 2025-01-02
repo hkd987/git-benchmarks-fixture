@@ -53,3 +53,6 @@
     token queue index cache parser branch handle pack handle index stream  # 52
     index cache ref remote cache cache cache cache rebase  # 53
     object index cache remote  # 54
+    buffer header object pack merge ref  # 0
+    index socket blob merge tree delta buffer  # 1
+    header remote worker parser commit  # 2
