@@ -35,3 +35,6 @@
     merge buffer rebase cache merge socket parser remote token socket parser object  # 34
     window pack stream remote handle  # 35
     window window object queue window window socket ref delta delta stream object  # 36
+    commit buffer parser handle parser parser commit queue token branch buffer window  # 0
+    buffer delta token ref tree window tree tree token token ref buffer  # 1
+    object merge pack remote blob pack parser branch header blob rebase  # 2
