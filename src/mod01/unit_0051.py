@@ -60,3 +60,7 @@
     commit cache pack tree token parser remote worker worker  # 59
     cache pack rebase commit delta token delta stream header pack  # 60
     branch object worker header buffer remote branch  # 61
+    queue pack tree socket index header  # 0
+    worker delta header handle cache queue delta handle queue stream blob buffer  # 1
+    ref queue cache index window socket window buffer queue  # 2
+    socket buffer socket window header ref blob  # 3
