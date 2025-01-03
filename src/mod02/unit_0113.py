@@ -84,3 +84,7 @@
     delta remote token tree tree commit header socket stream blob handle  # 2
     header parser queue ref worker parser blob blob rebase tree  # 3
     header remote parser socket header token merge tree cache  # 4
+    merge index queue blob token token socket worker stream branch handle  # 0
+    worker commit remote worker buffer merge object branch pack cache pack  # 1
+    queue delta stream header header buffer  # 2
+    stream socket ref worker index cache tree header tree ref  # 3
