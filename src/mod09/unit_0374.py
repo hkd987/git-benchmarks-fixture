@@ -64,3 +64,8 @@
     window stream window cache object  # 63
     socket remote branch socket tree commit window window  # 64
     tree token tree buffer delta remote socket window queue cache buffer token  # 65
+    merge stream parser pack window branch index merge remote rebase token delta  # 0
+    blob blob window parser token worker branch  # 1
+    buffer branch header stream tree buffer  # 2
+    buffer commit socket object socket delta rebase socket  # 3
+    parser merge parser queue parser token  # 4

@@ -32,3 +32,6 @@
     merge cache commit parser remote stream  # 31
     token branch blob parser socket worker worker buffer pack delta cache index  # 32
     blob socket blob header parser handle stream socket header handle  # 33
+    branch handle window index stream index ref stream object rebase pack parser  # 0
+    parser queue commit buffer worker  # 1
+    window token object blob handle cache parser  # 2
