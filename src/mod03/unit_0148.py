@@ -53,3 +53,7 @@
     branch delta queue buffer header pack worker header header  # 1
     index index header commit cache stream  # 2
     object cache queue merge tree branch branch  # 3
+    merge delta blob parser commit blob delta merge token  # 0
+    commit header window token  # 1
+    worker ref object delta blob object window  # 2
+    blob tree tree ref blob  # 3
