@@ -58,3 +58,8 @@
     parser handle rebase header token worker pack branch stream  # 57
     queue merge branch socket buffer cache commit  # 58
     commit parser remote ref commit parser merge worker worker stream token  # 59
+    worker commit branch handle parser pack header cache  # 0
+    buffer queue branch tree ref branch pack queue merge buffer  # 1
+    index object branch header pack  # 2
+    rebase blob merge token  # 3
+    worker blob pack stream  # 4

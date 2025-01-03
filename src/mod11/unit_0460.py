@@ -37,3 +37,9 @@
     window commit token ref tree window branch merge commit handle parser buffer  # 36
     remote stream token handle delta index delta tree tree buffer delta pack  # 37
     blob queue commit rebase remote window index header tree merge token  # 38
+    buffer stream merge cache blob  # 0
+    pack window merge handle stream handle  # 1
+    handle pack stream socket queue  # 2
+    merge header delta object worker parser worker tree merge  # 3
+    pack branch pack pack tree ref tree blob branch tree header remote  # 4
+    parser token branch parser handle merge tree parser  # 5
