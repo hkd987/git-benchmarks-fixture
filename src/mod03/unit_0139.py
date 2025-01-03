@@ -82,3 +82,8 @@
     window branch worker handle  # 7
     token socket blob queue tree stream blob index index token cache pack  # 8
     stream blob branch header stream delta cache blob tree window queue  # 9
+    tree worker commit rebase remote commit blob  # 0
+    stream window pack handle commit worker queue blob window socket index cache  # 1
+    handle token object blob remote rebase  # 2
+    pack delta window cache stream worker  # 3
+    blob commit queue token merge index ref index  # 4
