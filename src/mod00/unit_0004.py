@@ -78,3 +78,6 @@
     blob pack index object merge object cache  # 3
     rebase buffer socket branch merge  # 4
     remote header window blob remote commit  # 5
+    remote tree remote delta  # 0
+    parser commit queue tree worker  # 1
+    commit object queue index window cache queue ref tree queue object  # 2
