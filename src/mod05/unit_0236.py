@@ -41,3 +41,12 @@
     rebase pack rebase remote tree delta  # 40
     token token window delta pack queue remote  # 41
     worker rebase queue index blob stream worker rebase worker queue merge branch  # 42
+    tree index window parser ref blob merge object worker handle ref  # 0
+    remote token branch parser commit merge token header rebase handle delta  # 1
+    remote socket merge stream window tree  # 2
+    worker commit delta tree header ref header  # 3
+    pack buffer buffer rebase commit queue window object ref blob socket  # 4
+    pack pack blob pack stream index stream token  # 5
+    queue stream token blob  # 6
+    header handle worker index commit tree token queue handle worker  # 7
+    remote queue token rebase delta buffer  # 8

@@ -69,3 +69,9 @@
     buffer branch header stream tree buffer  # 2
     buffer commit socket object socket delta rebase socket  # 3
     parser merge parser queue parser token  # 4
+    header delta object index  # 0
+    blob remote tree stream  # 1
+    queue commit branch commit socket branch  # 2
+    window remote token worker token  # 3
+    tree socket branch token token object blob remote socket  # 4
+    window commit socket index branch ref  # 5

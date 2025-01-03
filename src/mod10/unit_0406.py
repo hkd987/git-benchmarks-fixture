@@ -61,3 +61,7 @@
     worker stream handle ref rebase  # 60
     stream delta commit object header  # 61
     buffer index cache branch blob blob handle header worker object cache  # 62
+    header worker rebase object tree cache  # 0
+    branch tree worker worker remote stream remote pack remote buffer tree token  # 1
+    blob branch socket branch rebase  # 2
+    header ref pack delta  # 3
