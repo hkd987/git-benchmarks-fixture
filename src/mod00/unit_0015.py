@@ -87,3 +87,14 @@
     window object parser buffer  # 86
     blob branch token commit token header socket cache delta object handle  # 87
     header token remote socket commit socket window tree blob commit  # 88
+    rebase token object branch  # 0
+    token ref token object rebase window pack token merge merge delta handle  # 1
+    remote rebase parser header remote window socket  # 2
+    object pack pack header rebase  # 3
+    queue object window ref rebase  # 4
+    token token stream index cache parser stream blob stream object rebase cache  # 5
+    tree tree merge blob index rebase blob delta stream merge buffer stream  # 6
+    rebase branch cache remote rebase window branch rebase commit buffer  # 7
+    handle remote blob socket token worker handle  # 8
+    index rebase worker cache buffer  # 9
+    remote cache merge tree merge index branch window branch remote  # 10
