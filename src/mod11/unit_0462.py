@@ -80,3 +80,10 @@
     token header token merge window stream commit token queue pack cache  # 0
     window socket queue handle ref  # 1
     ref object parser window token delta parser merge  # 2
+    token token object token  # 0
+    socket delta cache commit buffer pack remote index ref stream stream  # 1
+    index queue queue parser token  # 2
+    stream handle window stream header delta window  # 3
+    pack queue pack queue worker  # 4
+    stream parser remote tree  # 5
+    stream socket window commit remote header socket ref  # 6

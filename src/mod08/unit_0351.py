@@ -84,3 +84,6 @@
     stream header tree index token branch worker index object  # 1
     window pack rebase socket handle handle tree  # 2
     tree blob pack window  # 3
+    header header ref commit buffer buffer commit socket blob token  # 0
+    ref rebase window queue token pack worker blob stream  # 1
+    index ref object rebase window queue object tree worker blob delta  # 2

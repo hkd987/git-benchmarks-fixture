@@ -63,3 +63,6 @@
     pack ref token worker pack index branch merge parser header  # 62
     blob stream index token socket merge header delta  # 63
     cache tree token object commit parser ref  # 64
+    parser stream worker cache remote parser handle token window stream object header  # 0
+    window ref queue merge socket parser branch index  # 1
+    parser merge handle window delta commit queue  # 2

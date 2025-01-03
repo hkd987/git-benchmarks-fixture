@@ -82,3 +82,8 @@
     ref rebase index rebase worker window buffer queue index  # 81
     handle parser commit pack blob index  # 82
     delta window socket cache parser index  # 83
+    header socket token worker socket parser cache tree  # 0
+    branch queue commit blob tree  # 1
+    blob worker ref socket pack tree object parser stream window  # 2
+    stream commit token ref stream parser index token remote  # 3
+    merge pack tree rebase remote  # 4

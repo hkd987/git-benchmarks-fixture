@@ -84,3 +84,7 @@
     queue buffer parser socket rebase header branch header  # 83
     branch window ref pack index stream handle buffer  # 84
     blob socket worker pack tree merge cache handle pack handle merge remote  # 85
+    commit branch buffer commit remote cache  # 0
+    worker handle header merge blob index buffer object header rebase merge  # 1
+    object buffer window blob token window merge buffer  # 2
+    index socket header window handle stream delta pack merge ref blob  # 3

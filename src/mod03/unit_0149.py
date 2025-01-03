@@ -67,3 +67,7 @@
     window header worker socket  # 3
     delta worker header handle buffer merge  # 4
     header object branch pack commit  # 5
+    rebase rebase tree branch token commit cache cache  # 0
+    handle rebase branch header tree stream window merge tree object remote remote  # 1
+    parser socket stream commit queue ref socket delta  # 2
+    token merge rebase object stream commit cache worker  # 3
