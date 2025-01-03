@@ -66,3 +66,12 @@
     window remote queue queue  # 6
     tree merge pack ref parser tree pack  # 7
     merge token header queue socket buffer queue socket socket  # 8
+    branch index ref socket  # 0
+    window index parser rebase object object blob ref  # 1
+    socket token buffer pack  # 2
+    pack worker cache delta object ref parser object token cache worker  # 3
+    commit blob parser buffer worker token token buffer  # 4
+    tree object rebase pack header commit rebase socket  # 5
+    token merge object commit remote cache  # 6
+    pack remote worker ref worker cache branch delta branch blob window  # 7
+    token rebase merge branch rebase window window ref ref cache pack buffer  # 8

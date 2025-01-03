@@ -90,3 +90,8 @@
     socket tree socket pack socket delta remote queue handle  # 3
     ref stream remote token remote object  # 4
     commit commit handle tree  # 5
+    pack socket delta token worker commit  # 0
+    window worker merge buffer worker queue delta commit rebase socket ref ref  # 1
+    merge stream delta remote  # 2
+    commit commit commit queue  # 3
+    queue window rebase token queue branch header socket header token worker buffer  # 4

@@ -85,3 +85,8 @@
     pack stream buffer stream rebase branch ref window remote index parser  # 84
     merge header branch worker parser ref  # 85
     remote stream commit queue blob pack object blob rebase  # 86
+    remote token delta socket  # 0
+    window index socket object pack header  # 1
+    commit ref merge header pack branch ref branch token socket commit ref  # 2
+    pack ref handle buffer merge remote remote branch index window worker window  # 3
+    parser buffer header header  # 4

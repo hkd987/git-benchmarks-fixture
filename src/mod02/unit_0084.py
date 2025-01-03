@@ -77,3 +77,9 @@
     stream index ref remote queue token merge parser  # 76
     worker socket queue object  # 77
     buffer token parser delta  # 78
+    tree merge rebase stream pack index socket remote handle rebase  # 0
+    remote queue commit commit window token buffer remote  # 1
+    buffer merge branch token  # 2
+    object pack buffer token  # 3
+    rebase branch delta merge  # 4
+    merge buffer object parser cache tree  # 5
