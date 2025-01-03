@@ -81,3 +81,13 @@
     queue handle socket stream ref  # 6
     stream stream parser buffer handle  # 7
     window ref remote branch handle branch tree commit merge  # 8
+    queue commit object blob  # 0
+    window object merge branch header delta remote  # 1
+    pack buffer token object ref remote queue worker  # 2
+    cache handle cache branch merge object merge token token index  # 3
+    blob window queue parser ref parser socket  # 4
+    index token buffer merge buffer index handle  # 5
+    buffer worker worker cache socket token worker  # 6
+    branch object index queue blob worker header delta delta merge window  # 7
+    blob ref blob commit stream rebase branch token blob header  # 8
+    delta rebase window handle object object handle header parser rebase  # 9

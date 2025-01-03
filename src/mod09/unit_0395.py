@@ -54,3 +54,8 @@
     handle delta ref tree commit object tree  # 53
     tree token cache rebase index rebase  # 54
     buffer object header delta buffer socket parser ref merge  # 55
+    token delta parser pack header cache header ref tree cache queue rebase  # 0
+    branch window ref handle  # 1
+    commit index handle window socket commit handle worker tree  # 2
+    commit parser delta rebase pack ref queue socket queue  # 3
+    object buffer ref blob commit branch window object object remote handle pack  # 4

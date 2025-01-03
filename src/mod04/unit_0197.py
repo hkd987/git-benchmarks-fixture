@@ -61,3 +61,7 @@
     tree index remote pack merge pack cache rebase commit rebase parser index  # 60
     parser remote delta commit  # 61
     merge ref tree delta token rebase  # 62
+    parser pack merge header token ref merge socket window tree rebase commit  # 0
+    commit pack tree pack handle  # 1
+    socket object tree buffer  # 2
+    window header queue tree blob merge header socket pack pack  # 3
