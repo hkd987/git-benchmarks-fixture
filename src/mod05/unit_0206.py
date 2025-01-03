@@ -68,3 +68,7 @@
     handle branch handle index header index branch  # 6
     branch branch commit index parser commit window branch blob index  # 7
     header pack index commit tree merge worker  # 8
+    rebase index rebase commit object  # 0
+    token worker socket commit handle token  # 1
+    blob handle branch delta remote object  # 2
+    cache commit socket queue tree pack rebase token rebase handle  # 3
