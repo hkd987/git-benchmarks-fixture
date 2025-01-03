@@ -78,3 +78,6 @@
     worker token queue token commit blob remote  # 77
     header remote buffer index handle header tree header object commit  # 78
     pack blob branch stream rebase commit stream  # 79
+    tree remote blob stream rebase socket rebase object token tree  # 0
+    token rebase blob object ref cache rebase ref pack handle  # 1
+    commit remote merge blob blob delta cache tree remote  # 2
