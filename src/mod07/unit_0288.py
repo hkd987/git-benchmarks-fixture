@@ -62,3 +62,7 @@
     delta blob remote commit object pack  # 61
     token stream blob socket header blob object object window delta merge  # 62
     merge header buffer delta queue pack commit commit  # 63
+    index buffer commit object rebase handle cache  # 0
+    branch merge tree stream commit pack object rebase remote merge tree blob  # 1
+    queue branch object rebase ref worker window stream remote branch buffer queue  # 2
+    tree remote worker buffer branch stream window pack cache  # 3

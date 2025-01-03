@@ -103,3 +103,15 @@
     handle merge socket branch  # 10
     parser parser branch queue  # 11
     rebase tree socket handle merge stream window header index blob cache  # 12
+    branch ref socket stream delta delta branch parser queue  # 0
+    blob ref merge cache buffer worker branch pack merge worker ref  # 1
+    parser socket tree handle blob object pack rebase  # 2
+    remote queue parser blob blob cache handle  # 3
+    parser blob cache header queue  # 4
+    rebase ref token branch header window rebase tree merge  # 5
+    index object branch cache rebase  # 6
+    delta pack remote cache handle blob stream socket  # 7
+    handle remote handle queue merge merge socket remote  # 8
+    remote delta token commit rebase merge delta cache  # 9
+    buffer index tree pack stream window worker buffer  # 10
+    branch delta branch handle rebase delta  # 11
