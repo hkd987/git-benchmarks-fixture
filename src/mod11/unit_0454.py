@@ -95,3 +95,12 @@
     merge stream delta remote  # 2
     commit commit commit queue  # 3
     queue window rebase token queue branch header socket header token worker buffer  # 4
+    rebase buffer header rebase  # 0
+    window window window queue blob commit queue remote merge header commit rebase  # 1
+    parser queue cache merge window commit window queue  # 2
+    rebase stream handle remote tree branch  # 3
+    queue ref index cache  # 4
+    object delta rebase token worker branch window worker object ref header pack  # 5
+    merge tree buffer stream window object rebase  # 6
+    merge queue tree remote  # 7
+    merge remote header header object object merge  # 8

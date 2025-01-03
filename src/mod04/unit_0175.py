@@ -59,3 +59,7 @@
     rebase tree buffer branch worker blob buffer commit socket index blob  # 58
     handle branch rebase header object merge delta commit ref pack  # 59
     window branch merge token handle worker tree blob parser pack commit  # 60
+    index token rebase token remote commit pack  # 0
+    pack stream index commit cache  # 1
+    header buffer tree commit branch header handle tree commit cache branch  # 2
+    handle merge parser delta  # 3
