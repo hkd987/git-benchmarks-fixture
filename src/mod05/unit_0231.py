@@ -65,3 +65,10 @@
     stream buffer commit object merge buffer queue handle worker remote  # 64
     blob queue token ref cache stream commit remote  # 65
     stream index tree delta  # 66
+    queue worker handle cache  # 0
+    branch branch branch header object worker index  # 1
+    worker ref remote ref  # 2
+    pack window ref window ref header handle cache  # 3
+    branch buffer parser buffer remote handle merge rebase queue stream rebase  # 4
+    index remote worker index branch  # 5
+    tree token branch worker object remote  # 6
