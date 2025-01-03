@@ -58,3 +58,7 @@
     ref queue handle pack branch socket worker  # 57
     pack tree socket blob commit header merge tree branch socket token buffer  # 58
     buffer token rebase queue parser header handle  # 59
+    handle socket merge queue tree remote  # 0
+    commit socket merge object queue index blob worker index tree  # 1
+    window handle buffer buffer queue merge commit commit ref object  # 2
+    branch header branch token commit index handle handle ref  # 3
