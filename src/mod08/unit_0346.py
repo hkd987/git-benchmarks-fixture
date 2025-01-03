@@ -33,3 +33,9 @@
     stream branch socket parser parser blob branch buffer  # 32
     handle window header index  # 33
     worker parser merge socket handle ref worker socket rebase pack blob index  # 34
+    pack delta parser worker  # 0
+    ref pack cache stream parser remote token token blob delta  # 1
+    pack blob pack parser token blob window tree window  # 2
+    branch branch pack index handle commit branch pack ref rebase  # 3
+    queue rebase window socket queue parser queue ref delta object socket token  # 4
+    ref index delta index branch parser ref blob rebase commit  # 5
