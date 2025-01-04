@@ -43,3 +43,11 @@
     stream worker buffer stream  # 42
     branch header header window branch tree index tree rebase ref  # 43
     worker handle pack index handle buffer blob  # 44
+    buffer tree token commit  # 0
+    object queue token handle rebase index remote buffer blob object buffer  # 1
+    queue ref worker socket branch commit stream  # 2
+    buffer buffer index parser cache commit commit object worker merge socket  # 3
+    object merge parser token window header queue handle stream  # 4
+    buffer socket object header ref  # 5
+    pack object buffer stream socket  # 6
+    merge window object rebase  # 7

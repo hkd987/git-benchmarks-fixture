@@ -131,3 +131,6 @@
     handle tree rebase index token  # 7
     commit queue window token token object tree stream header window  # 8
     parser cache rebase token tree buffer socket  # 9
+    token handle parser merge  # 0
+    queue commit ref token header  # 1
+    ref tree index rebase buffer delta rebase rebase buffer cache queue ref  # 2

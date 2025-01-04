@@ -29,3 +29,6 @@
     remote header branch remote cache tree header stream queue stream delta  # 28
     token header rebase pack rebase branch queue queue window branch queue  # 29
     parser blob commit buffer  # 30
+    merge worker blob handle  # 0
+    tree merge stream queue tree parser  # 1
+    remote cache merge worker rebase pack token branch remote  # 2

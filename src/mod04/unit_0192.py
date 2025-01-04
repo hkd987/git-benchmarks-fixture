@@ -44,3 +44,10 @@
     ref socket stream commit blob parser commit merge  # 43
     ref header parser merge commit  # 44
     worker parser worker object  # 45
+    tree ref stream socket branch rebase merge pack branch worker stream  # 0
+    token delta merge worker worker header branch  # 1
+    token merge buffer queue remote cache ref blob handle  # 2
+    delta queue commit buffer commit rebase commit token handle ref tree  # 3
+    token rebase pack index queue token cache queue  # 4
+    parser handle ref handle handle queue socket  # 5
+    stream remote cache worker  # 6

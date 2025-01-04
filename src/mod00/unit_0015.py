@@ -98,3 +98,7 @@
     handle remote blob socket token worker handle  # 8
     index rebase worker cache buffer  # 9
     remote cache merge tree merge index branch window branch remote  # 10
+    parser buffer queue rebase  # 0
+    queue buffer cache cache stream handle cache ref pack parser header delta  # 1
+    index parser window commit  # 2
+    window ref parser parser buffer worker queue branch queue parser header rebase  # 3
