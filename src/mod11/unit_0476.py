@@ -73,3 +73,13 @@
     buffer token object window queue  # 72
     parser handle ref ref object tree worker merge rebase branch buffer parser  # 73
     ref window header parser queue buffer object window buffer  # 74
+    window stream window queue  # 0
+    buffer index pack buffer  # 1
+    rebase merge window merge worker  # 2
+    worker branch tree queue header  # 3
+    stream merge rebase buffer  # 4
+    commit stream pack object parser pack socket window window remote rebase index  # 5
+    parser ref index remote rebase queue socket branch  # 6
+    parser object buffer ref commit pack queue commit object socket socket handle  # 7
+    pack pack index window cache delta rebase tree index parser window  # 8
+    parser remote blob tree  # 9

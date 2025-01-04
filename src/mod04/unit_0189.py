@@ -88,3 +88,15 @@
     socket tree header parser index commit  # 87
     window ref commit merge  # 88
     commit tree object buffer socket queue  # 89
+    blob ref merge object worker pack index object  # 0
+    window window branch buffer  # 1
+    handle socket token buffer delta buffer merge  # 2
+    socket pack commit commit remote handle remote cache blob  # 3
+    ref worker window header queue branch rebase  # 4
+    header tree tree object commit  # 5
+    stream tree buffer worker socket remote  # 6
+    queue handle stream merge cache header stream pack worker parser stream  # 7
+    cache parser index socket object token parser branch  # 8
+    branch object window commit token  # 9
+    object delta socket worker  # 10
+    cache queue blob parser worker branch buffer pack delta  # 11
