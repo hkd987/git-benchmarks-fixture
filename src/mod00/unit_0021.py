@@ -84,3 +84,7 @@
     window tree stream commit tree blob ref stream tree blob cache tree  # 1
     blob socket queue worker pack stream ref handle  # 2
     index buffer blob token buffer blob cache  # 3
+    window pack rebase merge buffer token worker queue socket commit merge window  # 0
+    rebase cache parser parser  # 1
+    branch buffer rebase worker header tree  # 2
+    branch stream index buffer token  # 3
