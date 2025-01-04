@@ -60,3 +60,6 @@
     parser blob queue stream  # 6
     window remote socket pack rebase  # 7
     ref object rebase buffer remote rebase buffer merge buffer worker  # 8
+    window index cache branch  # 0
+    handle rebase cache remote worker commit delta remote  # 1
+    buffer socket index parser token pack  # 2
