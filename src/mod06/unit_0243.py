@@ -76,3 +76,6 @@
     buffer ref cache cache tree  # 3
     index header header pack blob remote tree  # 4
     socket pack token buffer token queue stream branch  # 5
+    delta ref handle worker parser token queue handle window blob handle  # 0
+    token tree merge token buffer pack buffer merge  # 1
+    window object merge index  # 2

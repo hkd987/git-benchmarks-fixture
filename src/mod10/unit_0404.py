@@ -60,3 +60,6 @@
     header stream worker tree stream cache  # 7
     buffer merge token object handle worker header handle buffer  # 8
     object tree header parser cache rebase index cache index  # 9
+    ref tree remote commit rebase stream window blob stream blob merge handle  # 0
+    token commit blob handle stream buffer  # 1
+    pack index branch delta object remote  # 2

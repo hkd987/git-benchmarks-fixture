@@ -90,3 +90,8 @@
     parser handle pack parser worker  # 8
     branch stream object queue token  # 9
     parser window worker object parser worker branch buffer handle queue blob commit  # 10
+    parser header token token stream remote rebase  # 0
+    rebase delta buffer queue rebase socket stream index  # 1
+    delta index stream socket buffer parser  # 2
+    socket buffer handle index merge object buffer stream stream handle  # 3
+    token rebase commit blob handle  # 4
