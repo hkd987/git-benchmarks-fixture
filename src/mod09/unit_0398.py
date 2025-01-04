@@ -62,3 +62,6 @@
     worker blob window socket object merge stream commit parser remote branch stream  # 61
     queue index object parser pack tree commit window index buffer worker queue  # 62
     pack commit window queue remote remote  # 63
+    remote handle object branch  # 0
+    delta commit commit queue pack parser socket delta merge pack delta  # 1
+    token tree rebase blob window  # 2
