@@ -85,3 +85,7 @@
     window delta parser pack remote ref queue stream tree commit handle tree  # 84
     tree socket delta blob commit pack token merge ref  # 85
     rebase rebase rebase window merge stream  # 86
+    commit delta commit blob tree  # 0
+    queue tree parser parser window header rebase socket header delta window object  # 1
+    window branch remote window  # 2
+    index token cache blob rebase remote header delta parser header socket  # 3

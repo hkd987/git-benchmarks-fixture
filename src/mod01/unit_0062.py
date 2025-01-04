@@ -55,3 +55,6 @@
     buffer remote pack ref ref  # 54
     parser branch delta delta parser window handle  # 55
     rebase merge parser parser  # 56
+    worker tree object index window token merge worker delta rebase buffer  # 0
+    header worker blob merge commit tree token handle branch blob index  # 1
+    cache header socket tree tree worker object token remote socket  # 2

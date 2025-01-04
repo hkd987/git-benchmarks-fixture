@@ -121,3 +121,13 @@
     header window merge index merge  # 10
     merge blob worker ref buffer buffer commit remote branch branch  # 11
     merge tree commit window socket window remote object parser worker delta  # 12
+    queue worker index socket rebase blob handle socket object queue  # 0
+    branch worker ref blob remote  # 1
+    handle cache buffer merge merge token tree rebase worker  # 2
+    header remote header pack window socket index commit  # 3
+    handle merge delta commit buffer  # 4
+    delta socket parser merge socket object rebase blob blob merge cache  # 5
+    queue handle parser cache rebase index buffer tree tree  # 6
+    handle tree rebase index token  # 7
+    commit queue window token token object tree stream header window  # 8
+    parser cache rebase token tree buffer socket  # 9
