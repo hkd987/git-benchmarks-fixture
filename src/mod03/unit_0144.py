@@ -63,3 +63,10 @@
     commit handle object remote  # 8
     object delta index cache stream window token stream commit delta parser header  # 9
     cache header delta parser stream commit  # 10
+    object remote ref delta header remote blob commit parser  # 0
+    parser queue delta ref pack ref blob tree remote ref worker delta  # 1
+    blob stream cache commit token buffer socket  # 2
+    object index buffer blob blob queue buffer index stream queue socket pack  # 3
+    merge delta handle object parser handle remote handle worker  # 4
+    commit tree commit parser window worker token branch object socket socket  # 5
+    handle queue worker parser header pack  # 6

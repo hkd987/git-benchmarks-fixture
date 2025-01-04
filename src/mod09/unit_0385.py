@@ -81,3 +81,10 @@
     index commit window ref ref buffer buffer ref  # 80
     socket ref delta token branch queue queue  # 81
     socket pack socket worker merge worker parser socket window  # 82
+    header branch delta rebase index  # 0
+    rebase rebase queue header  # 1
+    pack remote cache tree queue object window branch  # 2
+    window merge queue header stream blob  # 3
+    commit remote buffer blob merge remote socket socket branch  # 4
+    header cache commit merge commit parser ref buffer merge delta  # 5
+    header stream commit header queue  # 6
