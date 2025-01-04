@@ -54,3 +54,11 @@
     cache socket stream tree object  # 53
     tree token token buffer parser branch remote ref cache tree index pack  # 54
     buffer rebase parser window socket parser ref  # 55
+    tree branch commit window cache handle  # 0
+    object remote commit cache parser pack socket  # 1
+    parser pack branch stream ref remote cache blob remote worker  # 2
+    delta socket token header merge commit worker  # 3
+    index tree index pack  # 4
+    cache socket object token token token rebase tree  # 5
+    socket header ref window tree branch  # 6
+    delta branch branch queue stream token handle pack pack  # 7
