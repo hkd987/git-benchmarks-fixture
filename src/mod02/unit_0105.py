@@ -39,3 +39,9 @@
     token pack rebase ref pack token  # 38
     index branch object branch blob rebase stream worker stream stream pack cache  # 39
     worker delta cache commit window delta  # 40
+    rebase queue branch ref  # 0
+    rebase remote blob tree delta handle cache branch object token tree parser  # 1
+    rebase branch blob parser blob commit handle cache commit  # 2
+    cache handle window branch handle token object remote commit parser  # 3
+    delta rebase tree commit stream  # 4
+    branch remote index rebase stream delta header tree  # 5

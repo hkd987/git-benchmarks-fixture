@@ -62,3 +62,8 @@
     commit socket merge object queue index blob worker index tree  # 1
     window handle buffer buffer queue merge commit commit ref object  # 2
     branch header branch token commit index handle handle ref  # 3
+    rebase tree pack window  # 0
+    index window index socket window header  # 1
+    branch merge parser remote header merge rebase  # 2
+    remote rebase remote token  # 3
+    commit merge ref merge header window  # 4

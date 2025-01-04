@@ -74,3 +74,6 @@
     token stream object index  # 73
     parser worker handle socket  # 74
     handle rebase handle branch token branch blob handle pack remote  # 75
+    window buffer buffer socket worker remote ref handle object ref blob remote  # 0
+    rebase buffer index merge  # 1
+    buffer handle token window index  # 2
