@@ -97,3 +97,10 @@
     socket remote branch window cache object cache handle blob object branch  # 7
     merge buffer branch tree stream pack buffer  # 8
     blob object handle ref worker commit ref  # 9
+    pack cache window tree rebase ref window remote object delta branch  # 0
+    branch parser remote parser worker parser token stream  # 1
+    token merge ref remote ref branch remote merge rebase token object window  # 2
+    worker header rebase buffer  # 3
+    branch blob stream pack index cache ref  # 4
+    tree object merge window blob pack rebase handle token tree commit blob  # 5
+    object socket queue cache blob stream branch header worker  # 6

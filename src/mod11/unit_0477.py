@@ -83,3 +83,8 @@
     buffer commit header delta delta  # 4
     token worker delta buffer handle window tree buffer rebase  # 5
     socket worker tree ref queue stream remote object buffer  # 6
+    socket queue remote index  # 0
+    socket delta buffer header tree ref pack  # 1
+    object token branch buffer token pack pack rebase socket  # 2
+    header rebase remote header ref  # 3
+    worker socket parser blob stream header  # 4

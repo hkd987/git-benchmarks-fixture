@@ -67,3 +67,11 @@
     handle buffer index rebase cache  # 7
     commit object object stream cache rebase branch commit queue rebase  # 8
     branch pack parser window queue  # 9
+    merge window tree commit  # 0
+    ref branch pack buffer merge commit blob  # 1
+    worker ref commit buffer parser tree header object stream  # 2
+    blob merge stream buffer merge worker index tree tree  # 3
+    header remote handle handle header  # 4
+    rebase parser rebase token worker token buffer rebase parser  # 5
+    token merge delta delta ref buffer queue remote delta header token index  # 6
+    branch commit window queue delta  # 7

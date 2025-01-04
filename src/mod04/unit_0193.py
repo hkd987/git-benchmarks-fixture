@@ -68,3 +68,7 @@
     object handle parser branch cache index queue socket window rebase  # 67
     window worker index object ref pack buffer  # 68
     queue token ref tree parser stream token merge object  # 69
+    queue merge worker rebase pack handle worker blob object merge  # 0
+    socket header pack pack token cache parser  # 1
+    tree object remote delta cache parser header delta merge ref  # 2
+    rebase blob queue token rebase  # 3
