@@ -101,3 +101,6 @@
     remote remote token pack header parser blob stream handle token window cache  # 10
     worker parser remote delta  # 11
     socket window cache pack queue parser branch index worker  # 12
+    index window blob tree buffer index  # 0
+    index commit stream index commit object queue queue  # 1
+    object queue tree stream token branch queue tree rebase window  # 2
