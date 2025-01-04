@@ -54,3 +54,12 @@
     worker header pack remote queue worker pack rebase token  # 6
     index queue token worker branch merge buffer delta window window index  # 7
     index delta stream window buffer socket blob handle commit header  # 8
+    blob blob remote handle  # 0
+    handle remote tree rebase token rebase remote object rebase header queue header  # 1
+    ref commit socket cache rebase remote buffer worker ref  # 2
+    pack branch window window index ref delta merge socket token pack  # 3
+    handle queue object header window  # 4
+    branch tree tree token window  # 5
+    commit handle pack remote  # 6
+    stream pack window index pack commit delta token  # 7
+    delta buffer merge socket branch handle pack  # 8
