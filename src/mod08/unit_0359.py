@@ -82,3 +82,6 @@
     pack parser ref socket header object stream queue worker stream ref window  # 81
     header index worker blob tree header tree merge remote  # 82
     blob ref tree socket  # 83
+    merge object socket ref cache  # 0
+    index queue queue pack pack ref blob worker window parser  # 1
+    token parser pack stream handle delta  # 2

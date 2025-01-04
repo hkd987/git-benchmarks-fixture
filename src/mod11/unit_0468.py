@@ -76,3 +76,8 @@
     stream blob queue header tree header  # 7
     merge tree pack remote blob worker  # 8
     remote object blob worker  # 9
+    blob commit commit parser object merge delta  # 0
+    handle header handle rebase parser socket cache socket  # 1
+    cache cache cache branch socket branch  # 2
+    delta tree delta tree delta pack buffer cache remote window  # 3
+    worker branch token socket header  # 4
