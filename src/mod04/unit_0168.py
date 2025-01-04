@@ -80,3 +80,9 @@
     token blob stream commit stream ref  # 4
     index token handle socket branch ref  # 5
     token stream blob token  # 6
+    merge ref buffer worker rebase  # 0
+    remote delta tree window token  # 1
+    delta buffer queue ref index cache header cache handle socket buffer header  # 2
+    blob index pack socket  # 3
+    ref object merge queue cache handle object window queue  # 4
+    index queue ref worker commit delta parser  # 5

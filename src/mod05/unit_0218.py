@@ -49,3 +49,7 @@
     tree token pack parser token  # 48
     rebase pack ref index remote socket socket socket blob header  # 49
     index blob queue ref token  # 50
+    blob commit window branch handle tree object  # 0
+    token parser buffer window object object parser buffer  # 1
+    ref commit header parser tree merge ref tree  # 2
+    buffer handle buffer buffer delta  # 3

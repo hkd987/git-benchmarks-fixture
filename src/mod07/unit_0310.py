@@ -53,3 +53,7 @@
     index remote cache remote socket  # 3
     remote rebase branch parser index blob window tree cache object object delta  # 4
     delta branch buffer parser pack ref worker queue  # 5
+    worker pack token queue cache cache commit  # 0
+    tree handle stream delta  # 1
+    merge parser branch worker token header token tree blob handle  # 2
+    token header object pack index object header rebase rebase cache handle queue  # 3
