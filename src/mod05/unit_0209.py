@@ -60,3 +60,8 @@
     tree window buffer index handle token socket stream blob cache object ref  # 59
     index ref index ref handle handle socket ref remote window  # 60
     remote stream parser header blob blob worker window  # 61
+    rebase stream pack handle commit cache tree object socket header socket branch  # 0
+    parser branch socket cache delta handle merge blob blob  # 1
+    commit commit remote header branch branch  # 2
+    merge header window parser stream blob socket  # 3
+    window tree branch buffer pack rebase queue commit parser cache  # 4
