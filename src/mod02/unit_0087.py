@@ -67,3 +67,10 @@
     token queue object commit  # 12
     buffer object remote blob index index branch remote token pack  # 13
     worker branch rebase index queue  # 14
+    commit remote commit commit pack pack socket header window handle  # 0
+    blob cache merge socket ref token blob buffer ref buffer stream  # 1
+    header buffer handle window pack socket handle socket parser queue  # 2
+    delta handle window blob buffer socket queue  # 3
+    commit pack stream buffer merge blob parser remote  # 4
+    parser object handle window index window  # 5
+    rebase token stream queue object object socket header delta  # 6

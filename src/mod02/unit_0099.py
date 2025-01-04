@@ -91,3 +91,15 @@
     queue window branch header index worker remote socket  # 9
     buffer cache cache remote window  # 10
     cache rebase window cache stream index  # 11
+    object header parser socket index branch queue commit index merge  # 0
+    cache blob object parser commit object remote  # 1
+    delta cache socket window worker commit handle object socket  # 2
+    ref index remote object object index buffer  # 3
+    pack remote object object worker token index buffer delta ref pack object  # 4
+    branch token cache delta queue cache merge index queue  # 5
+    stream parser stream merge handle buffer index index cache  # 6
+    parser worker parser remote socket merge buffer queue cache  # 7
+    index handle merge merge merge tree cache  # 8
+    pack tree blob object ref window worker  # 9
+    commit socket pack header merge stream token rebase token worker blob  # 10
+    pack merge remote token  # 11

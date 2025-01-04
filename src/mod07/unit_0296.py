@@ -48,3 +48,6 @@
     rebase window tree rebase handle delta blob pack rebase  # 47
     parser index worker header merge object object merge rebase rebase window worker  # 48
     merge rebase buffer object merge pack socket branch header header blob  # 49
+    blob index cache branch blob merge remote delta merge remote  # 0
+    object cache token cache queue window buffer stream  # 1
+    remote rebase parser branch delta window index worker header  # 2

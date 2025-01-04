@@ -76,3 +76,12 @@
     handle remote tree ref queue delta object delta  # 5
     branch ref parser parser stream  # 6
     delta merge worker header queue socket tree socket cache  # 7
+    commit pack rebase commit tree token remote header tree blob  # 0
+    queue token object rebase tree parser merge stream handle tree  # 1
+    ref socket delta delta window cache tree object socket queue window index  # 2
+    object socket parser socket buffer parser cache commit  # 3
+    remote tree token cache worker commit remote commit stream window remote handle  # 4
+    remote branch queue object parser merge index window delta ref  # 5
+    pack pack delta token socket header tree ref  # 6
+    buffer stream queue object branch parser pack index index merge worker socket  # 7
+    parser worker socket parser stream parser merge object remote stream merge  # 8
