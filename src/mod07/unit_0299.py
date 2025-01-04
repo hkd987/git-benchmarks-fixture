@@ -94,3 +94,10 @@
     stream queue queue ref pack commit  # 9
     window pack object rebase tree delta token index commit  # 10
     commit tree index branch object queue pack token index handle  # 11
+    tree commit handle index delta branch  # 0
+    object delta buffer handle handle cache  # 1
+    remote window window delta token token window  # 2
+    ref pack delta window cache merge  # 3
+    object parser parser token header parser  # 4
+    worker pack pack pack tree  # 5
+    blob merge handle stream index buffer token  # 6

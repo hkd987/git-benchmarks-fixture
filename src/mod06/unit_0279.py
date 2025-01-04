@@ -49,3 +49,17 @@
     header commit ref header  # 48
     stream blob branch branch parser header worker socket handle pack  # 49
     token ref handle ref index window header object header socket  # 50
+    commit tree commit queue buffer buffer index buffer window  # 0
+    tree handle token window tree window socket ref  # 1
+    buffer branch merge rebase socket queue merge  # 2
+    token window header pack  # 3
+    ref blob parser window header pack worker socket rebase worker ref  # 4
+    commit handle window object header pack index worker ref index pack window  # 5
+    object stream parser rebase rebase blob header  # 6
+    header branch index token remote stream blob object worker  # 7
+    pack commit rebase commit blob stream delta worker pack token remote header  # 8
+    socket header tree worker handle delta remote worker cache stream  # 9
+    merge rebase header pack ref ref token index  # 10
+    index delta handle tree header object ref queue window header branch parser  # 11
+    tree branch blob blob remote branch queue token  # 12
+    cache remote index worker commit header ref commit worker stream queue  # 13
