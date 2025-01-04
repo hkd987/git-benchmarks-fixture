@@ -31,3 +31,8 @@
     token object delta rebase branch tree branch  # 30
     handle stream stream buffer index object socket object socket queue stream  # 31
     header ref buffer branch remote commit stream index tree  # 32
+    remote stream blob parser stream socket commit tree rebase queue handle  # 0
+    merge rebase tree index delta rebase rebase stream socket object handle  # 1
+    rebase merge cache commit merge index object delta  # 2
+    rebase rebase cache buffer blob merge  # 3
+    cache parser branch object branch worker token socket rebase worker commit  # 4
