@@ -31,3 +31,16 @@
     index pack object commit branch object  # 30
     parser blob tree remote buffer header worker  # 31
     stream socket tree blob rebase rebase pack socket pack pack  # 32
+    worker object ref tree index cache blob cache ref tree  # 0
+    worker blob cache delta token remote tree  # 1
+    pack blob branch window delta tree header  # 2
+    rebase header parser delta object pack branch handle commit  # 3
+    object socket cache window header rebase handle worker  # 4
+    commit queue object header socket socket  # 5
+    blob merge tree parser window queue pack blob  # 6
+    rebase buffer token object parser socket window token  # 7
+    buffer commit delta buffer object parser ref queue  # 8
+    handle remote branch handle window delta buffer merge pack buffer  # 9
+    buffer buffer index pack token queue object commit  # 10
+    parser object object token window merge merge socket token  # 11
+    queue socket cache socket buffer tree stream ref pack  # 12

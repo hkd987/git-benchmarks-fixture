@@ -61,3 +61,14 @@
     rebase ref branch header token  # 60
     window merge header commit commit remote buffer cache branch commit blob merge  # 61
     rebase cache header socket blob  # 62
+    parser buffer index worker buffer pack merge index stream remote delta  # 0
+    handle tree worker delta handle blob branch delta handle worker token blob  # 1
+    token tree index delta socket commit remote branch header  # 2
+    parser delta blob commit branch parser  # 3
+    socket rebase index stream socket socket window queue  # 4
+    header ref buffer stream  # 5
+    stream commit socket blob index stream object branch  # 6
+    tree cache delta window blob commit commit socket parser ref stream merge  # 7
+    pack remote remote parser cache tree window remote  # 8
+    socket queue commit tree token index cache token  # 9
+    parser commit tree remote blob handle blob buffer socket  # 10

@@ -39,3 +39,7 @@
     delta window commit blob object remote rebase object index  # 38
     pack queue ref cache cache remote queue  # 39
     token delta window buffer token buffer token  # 40
+    header ref commit blob window remote pack pack  # 0
+    blob blob merge merge window remote  # 1
+    buffer commit parser cache commit header  # 2
+    ref blob queue socket queue tree pack rebase ref index  # 3
