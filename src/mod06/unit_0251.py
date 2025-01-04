@@ -63,3 +63,14 @@
     token header handle delta index  # 62
     branch pack parser stream merge  # 63
     queue tree ref branch handle  # 64
+    index buffer tree ref pack token  # 0
+    rebase remote queue rebase token socket parser cache index handle socket  # 1
+    cache header merge merge delta  # 2
+    worker cache delta tree  # 3
+    index index object pack window parser pack  # 4
+    window handle rebase queue socket queue rebase remote cache tree index  # 5
+    worker handle stream queue pack header commit window  # 6
+    parser window commit cache window delta handle header  # 7
+    socket window blob worker merge token stream commit  # 8
+    rebase socket window delta handle  # 9
+    worker queue worker object worker rebase parser tree delta index queue  # 10
