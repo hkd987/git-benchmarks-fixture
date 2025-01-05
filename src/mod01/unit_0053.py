@@ -28,3 +28,7 @@
     stream token token queue branch branch window window delta  # 27
     queue object buffer commit parser merge branch ref rebase merge delta  # 28
     window ref tree buffer merge worker  # 29
+    rebase rebase header ref branch blob  # 0
+    index pack worker branch pack queue handle delta worker commit  # 1
+    merge delta index cache buffer delta queue blob buffer pack branch  # 2
+    stream stream parser window pack  # 3

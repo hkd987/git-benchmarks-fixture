@@ -81,3 +81,8 @@
     header tree window token remote stream worker  # 80
     object stream object worker remote stream rebase  # 81
     merge header merge rebase object blob queue remote object cache buffer  # 82
+    object rebase header parser object index remote stream blob cache rebase  # 0
+    cache buffer socket socket  # 1
+    socket buffer rebase merge worker socket token header index buffer buffer  # 2
+    ref worker queue stream ref buffer blob queue buffer  # 3
+    window parser index cache handle pack ref branch commit blob cache index  # 4
