@@ -47,3 +47,10 @@
     merge handle socket delta token queue delta merge index delta parser  # 46
     token index worker handle  # 47
     socket worker token pack branch index handle window index handle  # 48
+    window pack header socket queue  # 0
+    merge ref pack merge worker parser commit  # 1
+    handle socket index merge handle remote tree token  # 2
+    queue socket index rebase parser  # 3
+    handle token remote header window token branch cache worker header  # 4
+    commit rebase token object worker window object queue window remote branch pack  # 5
+    branch buffer delta commit remote merge rebase pack rebase remote worker object  # 6

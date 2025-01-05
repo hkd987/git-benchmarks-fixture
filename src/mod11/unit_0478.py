@@ -90,3 +90,12 @@
     window ref socket window delta ref header blob  # 5
     worker rebase delta ref queue remote tree delta ref ref  # 6
     object handle rebase window queue  # 7
+    commit merge branch delta pack commit cache socket index blob object worker  # 0
+    socket pack delta blob  # 1
+    branch delta remote buffer delta  # 2
+    blob object parser parser ref buffer commit merge remote object window  # 3
+    object object ref socket tree delta merge window rebase  # 4
+    parser tree queue header commit merge socket blob  # 5
+    ref socket merge rebase token  # 6
+    delta index delta buffer queue commit  # 7
+    branch merge delta blob window object header rebase pack rebase  # 8

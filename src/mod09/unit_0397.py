@@ -86,3 +86,13 @@
     object rebase queue delta merge socket remote  # 0
     delta cache worker rebase buffer socket parser branch pack branch token  # 1
     remote buffer delta blob remote object ref  # 2
+    cache rebase handle object tree ref delta parser  # 0
+    rebase index merge pack cache socket ref header worker buffer branch remote  # 1
+    header index tree merge index token parser cache blob ref object rebase  # 2
+    pack object token buffer merge buffer blob buffer  # 3
+    object rebase object buffer window tree buffer blob  # 4
+    delta remote rebase commit window pack cache cache tree buffer  # 5
+    branch handle pack delta cache handle delta pack handle  # 6
+    object delta index commit branch index  # 7
+    buffer token ref merge rebase stream parser stream branch stream  # 8
+    index remote parser pack  # 9

@@ -47,3 +47,8 @@
     commit worker ref delta stream token parser buffer delta window token object  # 46
     handle rebase worker rebase stream window index commit token  # 47
     blob parser window socket delta token window  # 48
+    socket commit parser index pack handle delta window index header stream  # 0
+    socket blob commit delta  # 1
+    index rebase ref delta buffer delta blob object remote handle commit  # 2
+    socket blob delta object branch index blob socket pack ref tree window  # 3
+    buffer rebase queue buffer tree parser object buffer index remote pack  # 4
