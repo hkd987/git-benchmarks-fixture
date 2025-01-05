@@ -101,3 +101,14 @@
     index buffer header delta socket worker ref buffer pack branch branch  # 7
     cache rebase stream object pack pack buffer index ref remote token socket  # 8
     commit window index cache index queue  # 9
+    tree object queue tree index window cache  # 0
+    index stream remote window remote object delta worker merge socket cache  # 1
+    pack worker object pack  # 2
+    tree handle blob merge handle parser remote buffer  # 3
+    worker worker remote ref delta worker blob queue branch worker buffer remote  # 4
+    handle pack stream rebase  # 5
+    rebase delta header header parser window index  # 6
+    parser parser blob ref handle  # 7
+    blob header remote merge buffer  # 8
+    branch queue cache branch object remote queue delta  # 9
+    index parser rebase pack merge pack delta worker branch delta socket index  # 10
