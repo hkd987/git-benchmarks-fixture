@@ -81,3 +81,12 @@
     window blob handle merge  # 5
     commit buffer index delta buffer delta index commit socket  # 6
     pack delta remote parser tree cache header buffer worker  # 7
+    delta commit buffer tree ref handle  # 0
+    object blob branch socket pack delta header  # 1
+    tree window header index remote ref header socket socket merge  # 2
+    ref stream handle index object pack header buffer commit  # 3
+    tree branch remote token header delta merge buffer  # 4
+    ref remote merge socket worker  # 5
+    socket object stream merge  # 6
+    socket remote tree delta object buffer pack queue pack header  # 7
+    commit header delta ref index  # 8

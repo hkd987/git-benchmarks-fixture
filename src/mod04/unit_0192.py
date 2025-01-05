@@ -51,3 +51,10 @@
     token rebase pack index queue token cache queue  # 4
     parser handle ref handle handle queue socket  # 5
     stream remote cache worker  # 6
+    tree tree delta window branch rebase cache  # 0
+    tree handle stream window ref  # 1
+    queue buffer stream queue token remote  # 2
+    stream rebase merge rebase buffer stream object rebase socket  # 3
+    delta window commit window commit pack handle header socket  # 4
+    index remote object buffer cache tree header  # 5
+    delta merge token pack delta object ref handle window socket cache tree  # 6
