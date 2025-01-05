@@ -93,3 +93,8 @@
     pack parser handle buffer token rebase  # 11
     merge delta handle commit buffer socket parser object remote blob  # 12
     stream rebase ref cache remote  # 13
+    buffer commit token branch parser cache cache  # 0
+    socket blob tree ref delta header  # 1
+    parser pack delta header queue  # 2
+    handle object queue blob object  # 3
+    ref buffer object token window queue blob  # 4

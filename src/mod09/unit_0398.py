@@ -65,3 +65,12 @@
     remote handle object branch  # 0
     delta commit commit queue pack parser socket delta merge pack delta  # 1
     token tree rebase blob window  # 2
+    merge object branch index commit delta object  # 0
+    socket pack window token stream queue header  # 1
+    index tree window parser commit worker index token tree worker  # 2
+    parser tree parser remote window  # 3
+    socket branch parser index blob  # 4
+    rebase index handle object queue tree handle ref object ref queue  # 5
+    stream stream socket tree queue parser blob handle worker worker  # 6
+    remote parser worker rebase token remote socket pack handle socket delta  # 7
+    ref object index index object worker window header handle tree stream  # 8
