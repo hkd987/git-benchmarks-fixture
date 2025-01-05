@@ -56,3 +56,6 @@
     ref commit remote pack buffer ref tree handle header  # 5
     branch queue merge object commit commit tree delta  # 6
     parser merge rebase stream handle  # 7
+    stream tree worker stream stream index object parser pack parser  # 0
+    blob object pack token pack worker blob tree parser queue  # 1
+    header worker buffer branch queue buffer tree index  # 2

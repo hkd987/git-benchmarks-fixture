@@ -62,3 +62,9 @@
     handle commit parser worker  # 61
     rebase merge buffer delta index queue parser  # 62
     queue delta merge object blob header remote cache window buffer pack commit  # 63
+    parser header delta stream branch pack header commit  # 0
+    commit object blob handle tree  # 1
+    buffer parser index worker object delta object merge token worker index object  # 2
+    ref object handle buffer parser socket rebase socket window token rebase tree  # 3
+    parser worker header commit handle parser object  # 4
+    token delta socket commit rebase  # 5

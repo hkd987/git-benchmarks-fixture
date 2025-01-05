@@ -56,3 +56,11 @@
     socket header tree header queue remote commit merge  # 55
     parser merge queue stream merge token blob  # 56
     rebase branch buffer token buffer tree stream rebase delta socket ref tree  # 57
+    socket commit socket commit handle queue  # 0
+    token parser blob blob queue header handle remote buffer  # 1
+    stream pack queue header header index  # 2
+    branch object token branch stream handle cache commit merge  # 3
+    tree parser ref merge  # 4
+    merge token blob index ref token ref tree remote object remote  # 5
+    worker queue worker index token pack  # 6
+    pack window window pack tree remote queue parser handle token rebase  # 7

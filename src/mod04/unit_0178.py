@@ -51,3 +51,10 @@
     buffer socket object header ref  # 5
     pack object buffer stream socket  # 6
     merge window object rebase  # 7
+    merge commit pack queue blob tree  # 0
+    pack queue handle window token commit  # 1
+    object worker header window object branch worker ref tree window  # 2
+    rebase pack token pack  # 3
+    worker tree ref pack remote  # 4
+    rebase header handle token parser pack delta rebase merge branch worker worker  # 5
+    socket remote tree cache  # 6

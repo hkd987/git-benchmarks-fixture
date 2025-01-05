@@ -101,3 +101,13 @@
     index buffer pack pack branch merge cache blob stream blob token  # 12
     branch remote merge object  # 13
     buffer branch window commit rebase branch  # 14
+    blob buffer tree branch remote stream worker  # 0
+    queue handle blob buffer rebase branch stream worker header  # 1
+    blob rebase header delta window object delta remote ref  # 2
+    header worker stream branch stream token branch parser window handle  # 3
+    handle stream delta commit window cache parser delta buffer cache  # 4
+    index queue header commit handle buffer  # 5
+    cache handle window ref parser rebase delta tree tree  # 6
+    socket object ref token rebase queue socket  # 7
+    window worker token remote handle handle index worker  # 8
+    branch parser header buffer remote  # 9
