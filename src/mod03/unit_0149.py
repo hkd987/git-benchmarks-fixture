@@ -71,3 +71,17 @@
     handle rebase branch header tree stream window merge tree object remote remote  # 1
     parser socket stream commit queue ref socket delta  # 2
     token merge rebase object stream commit cache worker  # 3
+    cache ref stream worker merge header  # 0
+    stream index tree branch commit ref blob queue index stream  # 1
+    pack tree parser parser tree branch rebase tree pack window buffer window  # 2
+    queue index queue tree  # 3
+    buffer header delta tree delta  # 4
+    index branch buffer cache socket rebase remote object  # 5
+    parser ref parser header header pack parser token commit parser blob worker  # 6
+    delta index remote socket queue  # 7
+    parser rebase buffer object stream token merge ref index ref delta queue  # 8
+    parser object queue queue object  # 9
+    stream remote stream parser commit window buffer object  # 10
+    window ref queue tree  # 11
+    rebase token object index  # 12
+    object tree tree commit token stream rebase index buffer queue  # 13

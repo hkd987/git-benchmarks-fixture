@@ -64,3 +64,7 @@
     pack remote branch cache stream merge token delta stream buffer  # 63
     remote header buffer buffer blob merge header tree  # 64
     blob tree token object pack merge worker branch commit header index  # 65
+    delta remote rebase delta pack stream token ref object tree socket window  # 0
+    object ref delta delta pack socket remote  # 1
+    branch queue remote pack branch  # 2
+    cache stream tree index commit socket buffer tree  # 3
