@@ -70,3 +70,9 @@
     merge delta handle object parser handle remote handle worker  # 4
     commit tree commit parser window worker token branch object socket socket  # 5
     handle queue worker parser header pack  # 6
+    index stream merge queue commit  # 0
+    queue queue handle worker object ref buffer window object buffer  # 1
+    queue stream rebase stream socket blob stream worker queue delta rebase  # 2
+    ref index merge branch window window  # 3
+    delta stream queue pack socket worker worker  # 4
+    tree tree token handle window  # 5

@@ -86,3 +86,11 @@
     socket buffer rebase merge worker socket token header index buffer buffer  # 2
     ref worker queue stream ref buffer blob queue buffer  # 3
     window parser index cache handle pack ref branch commit blob cache index  # 4
+    index delta merge ref delta commit  # 0
+    parser window ref header cache cache index index  # 1
+    cache commit stream merge stream queue blob ref handle  # 2
+    merge tree stream tree pack merge window merge commit pack merge index  # 3
+    cache queue window rebase window remote rebase remote merge  # 4
+    header cache token window cache token branch delta delta cache index  # 5
+    cache socket merge index worker stream token rebase object  # 6
+    blob delta pack commit handle  # 7
