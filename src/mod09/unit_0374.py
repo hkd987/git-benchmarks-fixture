@@ -75,3 +75,11 @@
     window remote token worker token  # 3
     tree socket branch token token object blob remote socket  # 4
     window commit socket index branch ref  # 5
+    remote header branch delta branch remote token ref  # 0
+    commit pack remote worker  # 1
+    buffer blob blob handle ref handle handle blob rebase header  # 2
+    branch queue object index  # 3
+    parser object pack header stream remote socket parser pack pack  # 4
+    cache token parser parser handle  # 5
+    pack worker index header  # 6
+    branch window commit socket ref  # 7

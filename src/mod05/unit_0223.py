@@ -58,3 +58,6 @@
     commit queue object header  # 57
     socket ref remote remote  # 58
     remote index socket header stream stream pack header ref tree object ref  # 59
+    remote object blob parser queue branch object pack pack pack  # 0
+    parser handle blob remote queue window tree  # 1
+    cache window buffer delta  # 2

@@ -43,3 +43,12 @@
     window token index remote parser queue queue socket parser cache queue socket  # 42
     cache buffer ref window token remote  # 43
     delta branch index header delta parser header merge tree  # 44
+    parser worker buffer cache stream parser header ref pack rebase  # 0
+    header delta merge index parser pack token buffer rebase parser handle  # 1
+    window socket tree merge  # 2
+    rebase index remote socket socket rebase merge index delta ref ref  # 3
+    merge handle remote worker  # 4
+    cache cache token queue tree ref ref  # 5
+    window ref queue branch commit  # 6
+    queue header branch pack pack tree queue header queue rebase  # 7
+    worker worker rebase handle cache  # 8

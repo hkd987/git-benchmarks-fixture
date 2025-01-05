@@ -45,3 +45,8 @@
     cache handle window branch handle token object remote commit parser  # 3
     delta rebase tree commit stream  # 4
     branch remote index rebase stream delta header tree  # 5
+    stream queue merge parser ref rebase delta index window parser pack queue  # 0
+    commit parser buffer buffer  # 1
+    header ref index remote worker worker header index cache handle pack  # 2
+    stream merge token merge pack worker queue  # 3
+    pack stream ref commit rebase socket pack branch  # 4

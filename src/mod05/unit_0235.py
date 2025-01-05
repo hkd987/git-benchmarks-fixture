@@ -74,3 +74,14 @@
     buffer tree window parser pack merge token worker window worker blob buffer  # 10
     merge worker blob worker tree rebase merge ref  # 11
     header branch header header rebase buffer queue merge branch  # 12
+    handle branch stream token parser blob queue buffer delta stream handle delta  # 0
+    stream blob socket worker queue handle token  # 1
+    token ref buffer socket tree buffer commit stream  # 2
+    merge blob delta blob  # 3
+    worker handle branch parser blob tree commit object handle  # 4
+    blob commit commit worker merge  # 5
+    tree ref buffer queue buffer buffer buffer tree tree commit  # 6
+    branch ref merge socket  # 7
+    delta stream cache merge stream stream queue worker  # 8
+    header ref index socket socket  # 9
+    remote object parser merge  # 10

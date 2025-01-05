@@ -33,3 +33,10 @@
     tree remote remote branch  # 32
     ref token object index socket  # 33
     worker merge rebase object  # 34
+    rebase ref index stream header rebase ref  # 0
+    buffer header window commit worker  # 1
+    ref commit commit stream object queue buffer branch pack  # 2
+    tree header worker header  # 3
+    worker queue object blob  # 4
+    handle merge socket header worker buffer queue buffer  # 5
+    delta stream object buffer pack  # 6

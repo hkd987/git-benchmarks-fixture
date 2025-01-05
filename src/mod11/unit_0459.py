@@ -81,3 +81,8 @@
     handle rebase index handle merge  # 80
     branch ref pack merge merge index queue handle parser queue stream blob  # 81
     index rebase socket blob  # 82
+    pack buffer buffer index handle parser header token object  # 0
+    queue ref window blob cache rebase blob  # 1
+    branch tree token index  # 2
+    queue queue queue index merge remote index handle index  # 3
+    blob token object handle merge token blob socket header handle socket rebase  # 4
