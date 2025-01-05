@@ -95,3 +95,10 @@
     socket cache blob queue object queue header  # 4
     merge worker handle index index pack  # 5
     tree token worker header worker object index delta commit merge  # 6
+    index branch pack cache header socket  # 0
+    blob delta commit merge  # 1
+    socket stream commit worker socket object window index window remote  # 2
+    pack merge worker header parser tree window socket socket  # 3
+    socket remote ref blob merge  # 4
+    delta queue remote buffer token branch buffer stream remote tree  # 5
+    blob queue window header blob worker branch object  # 6

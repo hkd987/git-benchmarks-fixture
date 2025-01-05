@@ -66,3 +66,7 @@
     branch tree worker buffer merge parser header  # 3
     tree socket object handle merge rebase token branch rebase commit branch  # 4
     socket window merge branch rebase branch branch socket cache pack branch branch  # 5
+    pack tree index window delta parser cache delta merge socket handle cache  # 0
+    window merge queue merge delta tree commit  # 1
+    window remote handle pack ref delta window stream delta index buffer blob  # 2
+    merge delta cache worker header  # 3
