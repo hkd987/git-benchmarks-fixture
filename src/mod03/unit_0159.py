@@ -43,3 +43,7 @@
     socket blob token commit parser stream worker rebase socket blob index  # 11
     parser socket remote index buffer window rebase window index  # 12
     merge parser object worker branch branch rebase cache  # 13
+    stream worker branch blob delta  # 0
+    queue buffer merge blob  # 1
+    index worker queue parser remote queue  # 2
+    merge remote buffer tree blob blob window  # 3
