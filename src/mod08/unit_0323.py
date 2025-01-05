@@ -44,3 +44,7 @@
     index rebase tree socket remote worker header parser object remote window buffer  # 43
     pack window worker queue merge stream worker blob remote  # 44
     pack merge remote blob tree ref token cache window handle blob worker  # 45
+    commit ref queue branch tree handle rebase worker parser  # 0
+    stream stream socket tree socket remote handle rebase worker  # 1
+    pack object index commit remote blob tree merge  # 2
+    tree remote delta commit branch blob socket window header  # 3
