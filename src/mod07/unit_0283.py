@@ -42,3 +42,6 @@
     parser cache worker blob header socket  # 41
     queue queue cache cache remote ref commit branch stream worker  # 42
     commit index buffer header worker token rebase rebase queue rebase index handle  # 43
+    queue queue pack cache index merge parser  # 0
+    index parser handle token delta socket header socket commit blob pack  # 1
+    blob remote cache remote cache  # 2

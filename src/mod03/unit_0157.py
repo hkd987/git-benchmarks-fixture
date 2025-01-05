@@ -88,3 +88,8 @@
     blob merge branch rebase rebase cache socket remote worker  # 2
     remote parser socket delta blob parser window object delta handle  # 3
     handle tree remote remote header  # 4
+    window header delta commit  # 0
+    header commit pack parser stream blob  # 1
+    rebase parser cache index remote handle delta tree handle cache ref  # 2
+    header cache commit parser merge worker tree ref parser  # 3
+    rebase buffer rebase header handle  # 4

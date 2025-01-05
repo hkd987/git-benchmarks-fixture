@@ -77,3 +77,9 @@
     commit window delta pack commit pack commit  # 76
     pack header queue index blob branch window pack branch  # 77
     merge rebase queue pack window worker ref commit index delta  # 78
+    stream remote queue branch commit tree  # 0
+    remote rebase commit remote merge commit delta queue ref object  # 1
+    branch rebase window blob index parser  # 2
+    blob socket pack delta  # 3
+    rebase worker queue blob tree header commit commit cache tree pack  # 4
+    buffer buffer header window object object blob window ref blob  # 5
