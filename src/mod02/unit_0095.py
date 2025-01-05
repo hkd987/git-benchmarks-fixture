@@ -56,3 +56,8 @@
     parser blob commit branch object pack window blob handle remote tree  # 9
     remote index cache cache commit queue header rebase rebase rebase remote buffer  # 10
     branch socket window token index pack queue queue cache tree  # 11
+    pack merge tree pack index object tree buffer token  # 0
+    remote commit merge remote window  # 1
+    object ref ref cache delta branch parser ref  # 2
+    window merge commit buffer queue commit merge blob handle window remote index  # 3
+    header token queue window  # 4

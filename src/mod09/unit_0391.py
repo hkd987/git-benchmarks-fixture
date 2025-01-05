@@ -29,3 +29,13 @@
     tree commit tree header object window header merge rebase worker worker remote  # 28
     queue stream commit buffer index buffer  # 29
     queue header handle object header rebase buffer  # 30
+    token stream ref ref branch delta  # 0
+    merge socket branch token blob queue  # 1
+    tree parser socket tree stream handle pack commit parser pack worker merge  # 2
+    buffer buffer rebase delta stream stream  # 3
+    object rebase tree parser  # 4
+    blob rebase delta token delta worker cache pack blob stream cache stream  # 5
+    stream blob blob rebase commit delta buffer ref cache  # 6
+    socket remote tree rebase tree  # 7
+    buffer commit buffer handle commit  # 8
+    header buffer worker merge delta index window rebase delta  # 9

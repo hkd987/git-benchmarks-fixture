@@ -53,3 +53,11 @@
     token parser buffer window object object parser buffer  # 1
     ref commit header parser tree merge ref tree  # 2
     buffer handle buffer buffer delta  # 3
+    worker pack window token window worker index  # 0
+    cache object branch branch rebase buffer rebase header merge object blob  # 1
+    branch tree rebase delta worker  # 2
+    stream branch buffer header parser  # 3
+    token remote buffer ref merge rebase rebase buffer pack  # 4
+    cache tree handle worker pack  # 5
+    window queue worker header branch blob commit index index index  # 6
+    buffer commit remote worker stream pack  # 7

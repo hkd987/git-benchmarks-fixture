@@ -100,3 +100,11 @@
     token parser index index header token tree window  # 7
     worker branch remote handle ref window cache  # 8
     delta stream parser blob parser  # 9
+    buffer index queue rebase  # 0
+    worker window cache tree branch window ref  # 1
+    object pack commit merge  # 2
+    stream stream delta cache window commit pack blob commit branch merge window  # 3
+    commit object merge socket tree stream cache  # 4
+    cache merge socket stream merge tree commit blob window token  # 5
+    window queue header queue stream handle cache tree socket remote worker  # 6
+    merge queue branch token parser  # 7
