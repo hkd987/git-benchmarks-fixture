@@ -81,3 +81,6 @@
     buffer tree rebase ref blob  # 2
     tree merge tree object  # 3
     buffer pack stream delta pack stream worker delta index remote  # 4
+    rebase ref cache commit stream stream stream tree socket  # 0
+    rebase object branch ref stream delta window header  # 1
+    rebase header blob blob worker  # 2
