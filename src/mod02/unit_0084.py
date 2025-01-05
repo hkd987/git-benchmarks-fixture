@@ -83,3 +83,6 @@
     object pack buffer token  # 3
     rebase branch delta merge  # 4
     merge buffer object parser cache tree  # 5
+    handle queue remote queue  # 0
+    buffer object ref token header index socket delta header token queue tree  # 1
+    cache queue pack tree buffer ref parser header header commit branch header  # 2

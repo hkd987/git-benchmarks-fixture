@@ -41,3 +41,6 @@
     object branch merge delta queue index delta socket blob index remote blob  # 40
     socket merge token parser handle buffer  # 41
     parser handle branch token worker header socket blob header  # 42
+    delta branch delta stream ref queue parser pack  # 0
+    handle object pack parser object stream tree window ref worker  # 1
+    delta header window object blob  # 2
