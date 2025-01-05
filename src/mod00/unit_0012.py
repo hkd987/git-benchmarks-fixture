@@ -59,3 +59,6 @@
     worker cache rebase parser tree commit delta index ref stream header  # 58
     worker handle tree buffer commit  # 59
     queue remote object parser index remote  # 60
+    stream window object header token index worker rebase  # 0
+    worker cache remote queue branch queue merge branch  # 1
+    ref object stream window merge merge tree object index socket socket cache  # 2

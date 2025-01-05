@@ -70,3 +70,6 @@
     worker parser pack index tree window header header branch ref rebase delta  # 69
     blob delta stream pack tree pack  # 70
     window socket socket token pack  # 71
+    branch object object worker branch ref  # 0
+    handle object cache queue commit stream pack commit delta tree pack  # 1
+    branch parser blob worker branch branch header token delta  # 2

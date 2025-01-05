@@ -64,3 +64,6 @@
     tree commit queue stream object token token  # 63
     merge token object socket worker blob buffer remote pack  # 64
     merge buffer pack index queue parser buffer ref parser remote  # 65
+    socket remote delta window parser queue blob ref tree  # 0
+    handle index branch merge window ref  # 1
+    commit remote ref pack index  # 2
