@@ -101,3 +101,7 @@
     tree handle tree rebase index stream remote window remote header  # 10
     stream merge buffer commit buffer cache tree delta handle worker window window  # 11
     commit buffer remote pack tree branch worker header branch ref tree socket  # 12
+    worker remote blob remote socket socket stream object queue stream buffer  # 0
+    buffer branch buffer pack delta  # 1
+    ref ref buffer handle rebase socket tree queue commit cache tree object  # 2
+    merge branch window object remote commit stream header merge commit parser  # 3

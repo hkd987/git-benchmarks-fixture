@@ -66,3 +66,6 @@
     pack handle header token  # 7
     token buffer worker queue  # 8
     merge header socket parser worker  # 9
+    index buffer pack stream token index socket header rebase  # 0
+    queue cache commit header merge remote branch remote blob  # 1
+    tree stream object commit delta rebase token cache remote parser pack  # 2
