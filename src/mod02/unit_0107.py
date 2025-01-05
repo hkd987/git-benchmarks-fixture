@@ -85,3 +85,6 @@
     queue parser ref handle header tree buffer socket merge remote header header  # 10
     buffer object rebase index socket handle queue  # 11
     pack pack commit tree object rebase token worker  # 12
+    buffer buffer queue parser queue index window delta tree parser  # 0
+    stream tree header pack ref delta handle object token parser  # 1
+    merge object queue blob queue  # 2
