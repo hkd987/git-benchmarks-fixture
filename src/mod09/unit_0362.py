@@ -47,3 +47,11 @@
     queue socket commit token rebase header cache index  # 46
     token index stream blob worker worker commit buffer  # 47
     object merge blob tree queue stream worker window tree ref index  # 48
+    handle buffer remote index cache branch queue pack parser stream rebase cache  # 0
+    stream commit cache parser index cache delta socket stream blob branch  # 1
+    merge socket pack parser queue worker delta queue worker  # 2
+    cache queue remote tree  # 3
+    buffer handle parser handle branch  # 4
+    commit cache stream header window object branch  # 5
+    merge remote header index branch branch header delta worker ref remote blob  # 6
+    worker socket token parser tree rebase branch handle stream socket object stream  # 7
